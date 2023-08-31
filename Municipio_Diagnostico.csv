@@ -1,0 +1,1001 @@
+Edad,Sexo,Raza,Municipio,Provincia,ÁreaSalud,Sala,Cama,Diagnóstico,Especialidad,Unidad,Egreso,Destino
+16,F,B,Cruces,Cienfuegos,Cruces,1A,1,Asma Bronquial,Resp,HGAL,5:30 PM,Alta
+12,M,N,Palmira,Cienfuegos,Palmira,7B,4,SDB (1B),Cirugía,HGAL,7:00 AM,Alta
+21,F,M,Cruces,Cienfuegos,Cruces,4B,16,HQ Apendicitis,MI,HGAL,8:00 PM,1A
+19,M,B,Cienfuegos,Cienfuegos,Área I,11A,8,Dolor Abdominal,MI,HGAL,6:10 AM,Alta
+46,M,B,Cienfuegos,Cienfuegos,Área II,9B,7,Anemia ,MI,HGAL,6:00 PM,Alta
+37,M,B,Cienfuegos,Cienfuegos,Área III,3B,6,NAC,MI,HGAL,9:10 AM,Alta
+27,F,B,Cienfuegos,Cienfuegos,Área IV,4B,9,SFA+ Dengue,MI,HGAL,11:10 PM,Alta
+21,F,M,Cienfuegos,Cienfuegos,Área V,3A,10,Lifrangitis Aguda,MI,HGAL,7:45 AM,12B
+54,F,N,Cienfuegos,Cienfuegos,Área VI,5A,11,HQ Apendicitis,MI,HGAL,6:10 PM,Alta
+46,M,M,Cienfuegos,Cienfuegos,Área VII,9B,12,Dolor Abdominal,MI,HGAL,6:25 AM,Alta
+57,F,N,Cienfuegos,Cienfuegos,Área VIII,11A,6,Anemia ,MI,HGAL,5:30 PM,Alta
+75,F,B,Cienfuegos,Cienfuegos,Área VIII,12B,3,NAC,MI,HGAL,7:00 AM,Alta
+56,M,B,Cienfuegos,Cienfuegos,Área VIII,12A,5,SFA+ Dengue,MI,HGAL,8:00 PM,1A
+22,F,B,Cienfuegos,Cienfuegos,Área VIII,8B,4,Lifrangitis Aguda,MI,HGAL,6:10 AM,Alta
+37,F,B,Cienfuegos,Cienfuegos,Área VIII,12B,5,Lifrangitis Aguda,MI,HGAL,6:00 PM,Alta
+83,F,B,Cienfuegos,Cienfuegos,Área VIII,1A,7,Lifrangitis Aguda,MI,HGAL,9:10 AM,Alta
+34,M,B,Cienfuegos,Cienfuegos,Área II,1A,8,Lifrangitis Aguda,MI,HGAL,11:10 PM,Alta
+61,F,N,Cienfuegos,Cienfuegos,Área III,12A,6,Lifrangitis Aguda,MI,HGAL,7:45 AM,12B
+47,M,M,Cienfuegos,Cienfuegos,Área IV,5A,9,Anemia ,MI,HGAL,6:10 PM,Alta
+51,M,N,Cienfuegos,Cienfuegos,Área V,7B,3,NAC,MI,HGAL,6:25 AM,Alta
+52,M,N,Cienfuegos,Cienfuegos,Área VI,7B,6,SFA+ Dengue,MI,HGAL,6:10 PM,Alta
+35,M,B,Cruces,Cienfuegos,Cruces,8B,4,Lifrangitis Aguda,MI,HGAL,6:25 AM,1A
+23,F,B,Cruces,Cienfuegos,Cruces,10A,12,HQ Apendicitis,Cirugía,HGAL,5:30 PM,Alta
+20,F,B,Cruces,Cienfuegos,Cruces,10B,3,Dolor Abdominal,Cirugía,HGAL,7:00 AM,Alta
+75,F,B,Cruces,Cienfuegos,Cruces,1A,1,Anemia ,Cirugía,HGAL,6:00 PM,Alta
+56,F,B,Cruces,Cienfuegos,Cruces,7B,4,NAC,Cirugía,HGAL,9:10 AM,1A
+22,M,M,Cruces,Cienfuegos,Cruces,4B,16,NAC,Cirugía,HGAL,11:10 PM,Alta
+37,M,M,Cruces,Cienfuegos,Cruces,11A,8,NAC,Cirugía,HGAL,7:45 AM,Alta
+83,M,B,Palmira,Cienfuegos,Palmira,9B,7,NAC,Cirugía,HGAL,6:10 PM,Alta
+34,F,B,Palmira,Cienfuegos,Palmira,3B,6,NAC,Cirugía,HGAL,6:25 AM,Alta
+61,F,M,Palmira,Cienfuegos,Palmira,4B,9,NAC,MI,HGAL,5:30 PM,12B
+47,F,M,Palmira,Cienfuegos,Palmira,3A,10,Lifrangitis Aguda,MI,HGAL,7:00 AM,Alta
+51,F,M,Palmira,Cienfuegos,Palmira,5A,11,Anemia ,MI,HGAL,8:00 PM,Alta
+52,M,B,Palmira,Cienfuegos,Palmira,9B,12,NAC,MI,HGAL,6:10 PM,Alta
+35,F,B,Rodas,Cienfuegos,Rodas,11A,6,SFA+ Dengue,MI,HGAL,6:25 AM,1A
+23,F,B,Abreus,Cienfuegos,Abreus,12B,3,Lifrangitis Aguda,MI,HGAL,6:10 PM,Alta
+52,F,N,Cienfuegos,Cienfuegos,Área I,12A,5,HQ Apendicitis,MI,HGAL,6:25 AM,Alta
+35,F,B,Rodas,Cienfuegos,Rodas,8B,4,HQ Apendicitis,MI,HGAL,5:30 PM,Alta
+23,F,B,Rodas,Cienfuegos,Rodas,12B,5,HQ Apendicitis,MI,HGAL,7:00 AM,Alta
+20,F,B,Rodas,Cienfuegos,Rodas,1A,7,HQ Apendicitis,Cirugía,HGAL,6:00 PM,Alta
+75,M,B,Rodas,Cienfuegos,Rodas,1A,8,HQ Apendicitis,Cirugía,HGAL,9:10 AM,Alta
+56,M,B,Rodas,Cienfuegos,Rodas,12A,6,HQ Apendicitis,Cirugía,HGAL,11:10 PM,Alta
+22,M,B,Rodas,Cienfuegos,Rodas,5A,9,Anemia ,Resp,HGAL,7:45 AM,Alta
+37,M,B,Rodas,Cienfuegos,Rodas,7B,3,NAC,Cirugía,HGAL,6:10 PM,Alta
+56,F,M,Lajas,Cienfuegos,Lajas,7B,6,SFA+ Dengue,MI,HGAL,6:25 AM,Alta
+22,F,B,Cienfuegos,Cienfuegos,Área II,8B,4,Lifrangitis Aguda,MI,HGAL,5:30 PM,Alta
+44,F,B,Cienfuegos,Cienfuegos,Área III,10A,12,Lifrangitis Aguda,MI,HGAL,7:00 AM,Alta
+34,F,M,Cienfuegos,Cienfuegos,Área IV,10B,3,Lifrangitis Aguda,MI,HGAL,6:10 PM,Alta
+32,M,B,Cienfuegos,Cienfuegos,Área V,1A,1,Lifrangitis Aguda,MI,HGAL,6:25 AM,Alta
+22,M,B,Cienfuegos,Cienfuegos,Área VI,7B,4,Lifrangitis Aguda,MI,HGAL,6:10 PM,Alta
+37,M,B,Cienfuegos,Cienfuegos,Área VIII,4B,16,Anemia ,MI,HGAL,6:25 AM,Alta
+8,M,M,Cienfuegos,Cienfuegos,Área VIII,11A,8,NAC,MI,HGAL,5:30 PM,Alta
+55,F,N,Cienfuegos,Cienfuegos,Área VIII,9B,7,SFA+ Dengue,MI,HGAL,7:00 AM,Alta
+56,M,M,Cienfuegos,Cienfuegos,Área VIII,3B,6,Lifrangitis Aguda,MI,HGAL,6:00 PM,Alta
+22,F,M,Cienfuegos,Cienfuegos,Área VI,4B,9,HQ Apendicitis,MI,HGAL,9:10 AM,Alta
+37,F,N,Lajas,Cienfuegos,Lajas,3A,10,Dolor Abdominal,MI,HGAL,11:10 PM,Alta
+56,M,B,Cienfuegos,Cienfuegos,Área II,5A,11,Anemia ,MI,HGAL,7:45 AM,Alta
+22,F,M,Cienfuegos,Cienfuegos,Área III,9B,12,NAC,MI,HGAL,6:10 PM,Alta
+44,F,M,Cienfuegos,Cienfuegos,Área IV,11A,6,NAC,MI,HGAL,6:25 AM,Alta
+52,F,M,Cienfuegos,Cienfuegos,Área V,12B,3,NAC,MI,HGAL,5:30 PM,Alta
+35,M,B,Cienfuegos,Cienfuegos,Área VI,12A,5,NAC,MI,HGAL,7:00 AM,Alta
+23,F,B,Cienfuegos,Cienfuegos,Área VIII,8B,4,NAC,MI,HGAL,8:00 PM,Alta
+20,M,B,Cienfuegos,Cienfuegos,Área VIII,12B,5,NAC,MI,HGAL,6:10 PM,Alta
+75,F,B,Cienfuegos,Cienfuegos,Área VIII,1A,7,Lifrangitis Aguda,MI,HGAL,6:25 AM,1A
+56,F,M,Cienfuegos,Cienfuegos,Área VIII,1A,8,Anemia ,Cirugía,HGAL,6:10 PM,Alta
+22,M,B,Cienfuegos,Cienfuegos,Área VI,12A,6,NAC,Cirugía,HGAL,6:25 AM,Alta
+37,F,B,Cienfuegos,Cienfuegos,Área VI,5A,9,SFA+ Dengue,Cirugía,HGAL,5:30 PM,Alta
+83,M,B,Cumanayagua,Cienfuegos,Cumanayagua,7B,3,Lifrangitis Aguda,Cirugía,HGAL,7:00 AM,Alta
+34,M,M,Cumanayagua,Cienfuegos,Cumanayagua,7B,6,HQ Apendicitis,Cirugía,HGAL,6:00 PM,12B
+22,M,M,Cumanayagua,Cienfuegos,Cumanayagua,8B,4,HQ Apendicitis,Cirugía,HGAL,9:10 AM,Alta
+44,M,B,Cumanayagua,Cienfuegos,Cumanayagua,10A,12,SFA+ Dengue,Cirugía,HGAL,11:10 PM,Alta
+52,F,N,Cienfuegos,Cienfuegos,Área II,10B,3,Lifrangitis Aguda,Cirugía,HGAL,7:45 AM,Alta
+35,F,N,Cienfuegos,Cienfuegos,Área III,1A,1,Lifrangitis Aguda,MI,HGAL,7:45 AM,1A
+23,F,M,Cienfuegos,Cienfuegos,Área IV,7B,4,Lifrangitis Aguda,MI,HGAL,6:10 PM,Alta
+20,M,B,Cienfuegos,Cienfuegos,Área V,4B,16,Lifrangitis Aguda,MI,HGAL,6:25 AM,Alta
+16,,N,Cienfuegos,Cienfuegos,Área VI,11A,8,Lifrangitis Aguda,MI,HGAL,5:30 PM,Alta
+12,F,M,Cienfuegos,Cienfuegos,Área VIII,9B,7,Anemia ,MI,HGAL,7:00 AM,1A
+21,M,N,Cienfuegos,Cienfuegos,Área VIII,3B,6,NAC,MI,HGAL,6:10 PM,Alta
+19,M,B,Cienfuegos,Cienfuegos,Área VI,4B,9,SFA+ Dengue,Resp,HGAL,6:25 AM,Alta
+46,F,M,Cienfuegos,Cienfuegos,Área IV,3A,10,Lifrangitis Aguda,Resp,HGAL,6:10 PM,Alta
+37,F,M,Cienfuegos,Cienfuegos,Área V,5A,11,HQ Apendicitis,Resp,HGAL,6:25 AM,Alta
+27,F,B,Cienfuegos,Cienfuegos,Área VI,9B,12,Dolor Abdominal,Resp,HGAL,5:30 PM,12B
+21,M,B,Cienfuegos,Cienfuegos,Área VIII,11A,6,Anemia ,Resp,HGAL,7:00 AM,Alta
+54,F,M,Cienfuegos,Cienfuegos,Área VIII,12B,3,NAC,Resp,HGAL,6:00 PM,Alta
+46,M,B,Cienfuegos,Cienfuegos,Área II,12A,5,NAC,Resp,HGAL,9:10 AM,Alta
+57,M,B,Cruces,Cienfuegos,Cruces,8B,4,NAC,Resp,HGAL,5:30 PM,1A
+75,F,B,Palmira,Cienfuegos,Palmira,12B,5,NAC,Resp,HGAL,7:00 AM,Alta
+56,M,B,Palmira,Cienfuegos,Palmira,1A,7,NAC,Resp,HGAL,6:00 PM,Alta
+20,F,B,Palmira,Cienfuegos,Palmira,1A,8,NAC,MI,HGAL,9:10 AM,Alta
+16,F,M,Palmira,Cienfuegos,Palmira,12A,6,Lifrangitis Aguda,MI,HGAL,11:10 PM,Alta
+12,M,B,Palmira,Cienfuegos,Palmira,5A,9,Anemia ,MI,HGAL,7:45 AM,Alta
+21,M,B,Palmira,Cienfuegos,Palmira,7B,3,NAC,MI,HGAL,6:10 PM,Alta
+19,M,M,Palmira,Cienfuegos,Palmira,7B,6,SFA+ Dengue,MI,HGAL,6:25 AM,1A
+46,M,B,Abreus,Cienfuegos,Abreus,8B,4,Lifrangitis Aguda,MI,HGAL,5:30 PM,Alta
+37,M,B,Abreus,Cienfuegos,Abreus,10A,12,HQ Apendicitis,MI,HGAL,7:00 AM,Alta
+76,F,B,Abreus,Cienfuegos,Abreus,10B,3,HQ Apendicitis,Cirugía,HGAL,8:00 PM,Alta
+54,M,N,Abreus,Cienfuegos,Abreus,1A,1,SFA+ Dengue,Cirugía,HGAL,6:10 PM,Alta
+23,F,B,Abreus,Cienfuegos,Abreus,7B,4,SFA+ Dengue,Cirugía,HGAL,6:25 AM,12B
+25,M,B,Cienfuegos,Cienfuegos,Área I,4B,16,SFA+ Dengue,Cirugía,HGAL,6:10 PM,Alta
+65,F,B,Cienfuegos,Cienfuegos,Área II,11A,8,SFA+ Dengue,Cirugía,HGAL,6:25 AM,Alta
+34,M,B,Cienfuegos,Cienfuegos,Área III,9B,7,SFA+ Dengue,Cirugía,HGAL,5:30 PM,Alta
+44,M,B,Cienfuegos,Cienfuegos,Área IV,3B,6,SFA+ Dengue,MI,HGAL,7:00 AM,Alta
+56,M,B,Cienfuegos,Cienfuegos,Área V,4B,9,SFA+ Dengue,MI,HGAL,6:00 PM,1A
+76,F,M,Cienfuegos,Cienfuegos,Área VIII,3A,10,SFA+ Dengue,Resp,HGAL,9:10 AM,Alta
+56,F,B,Cienfuegos,Cienfuegos,Área VIII,5A,11,SFA+ Dengue,Resp,HGAL,11:10 PM,Alta
+20,M,B,Cienfuegos,Cienfuegos,Área VIII,9B,12,SFA+ Dengue,Resp,HGAL,7:45 AM,Alta
+16,F,N,Cienfuegos,Cienfuegos,Área VIII,11A,6,SFA+ Dengue,Resp,HGAL,7:45 AM,Alta
+12,M,B,Cienfuegos,Cienfuegos,Área II,12B,3,SFA+ Dengue,Resp,HGAL,6:10 PM,12B
+21,F,B,Cienfuegos,Cienfuegos,Área III,12A,5,SFA+ Dengue,Resp,HGAL,6:25 AM,Alta
+19,M,B,Cienfuegos,Cienfuegos,Área IV,8B,4,SFA+ Dengue,Resp,HGAL,5:30 PM,Alta
+46,M,B,Cienfuegos,Cienfuegos,Área V,12B,5,SFA+ Dengue,Resp,HGAL,7:00 AM,Alta
+37,F,B,Cienfuegos,Cienfuegos,Área VI,1A,7,SFA+ Dengue,Resp,HGAL,6:10 PM,1A
+76,M,M,Cienfuegos,Cienfuegos,Área VIII,1A,8,SFA+ Dengue,Resp,HGAL,6:25 AM,Alta
+54,F,B,Cienfuegos,Cienfuegos,Área VIII,12A,6,SFA+ Dengue,Resp,HGAL,6:10 PM,Alta
+12,F,B,Cienfuegos,Cienfuegos,Área I,5A,9,HQ Apendicitis,Cirugía,HGAL,6:25 AM,Alta
+21,M,M,Cienfuegos,Cienfuegos,Área II,7B,3,Dolor Abdominal,MI,HGAL,5:30 PM,1A
+19,M,B,Cienfuegos,Cienfuegos,Área III,7B,6,Anemia ,MI,HGAL,7:00 AM,Alta
+46,F,M,Cienfuegos,Cienfuegos,Área VIII,8B,4,NAC,MI,HGAL,6:00 PM,Alta
+37,M,B,Cienfuegos,Cienfuegos,Área VIII,10A,12,SFA+ Dengue,MI,HGAL,9:10 AM,Alta
+27,F,B,Cienfuegos,Cienfuegos,Área VIII,10B,3,Lifrangitis Aguda,MI,HGAL,5:30 PM,Alta
+21,F,B,Cruces,Cienfuegos,Área VIII,1A,1,HQ Apendicitis,MI,HGAL,7:00 AM,12B
+54,F,B,Cruces,Cienfuegos,Cruces,7B,4,Dolor Abdominal,MI,HGAL,6:00 PM,Alta
+46,F,B,Cruces,Cienfuegos,Cruces,4B,16,Anemia ,MI,HGAL,9:10 AM,Alta
+57,F,B,Abreus,Cienfuegos,Abreus,11A,8,NAC,MI,HGAL,5:30 PM,Alta
+75,M,B,Cruces,Cienfuegos,Cruces,9B,7,SFA+ Dengue,MI,HGAL,7:00 AM,1A
+56,M,B,Cruces,Cienfuegos,Cruces,3B,6,Lifrangitis Aguda,MI,HGAL,6:00 PM,Alta
+20,M,M,Cruces,Cienfuegos,Cruces,4B,9,Lifrangitis Aguda,MI,HGAL,9:10 AM,Alta
+16,M,B,Cruces,Cienfuegos,Cruces,3A,10,Lifrangitis Aguda,MI,HGAL,11:10 PM,Alta
+12,M,B,Lajas,Cienfuegos,Lajas,5A,11,Lifrangitis Aguda,MI,HGAL,7:45 AM,Alta
+21,F,B,Lajas,Cienfuegos,Lajas,9B,12,Lifrangitis Aguda,MI,HGAL,6:10 PM,Alta
+19,F,N,Lajas,Cienfuegos,Lajas,11A,6,Anemia ,MI,HGAL,6:25 AM,Alta
+46,F,B,Lajas,Cienfuegos,Lajas,12B,3,NAC,MI,HGAL,5:30 PM,Alta
+37,M,B,Lajas,Cienfuegos,Lajas,12A,5,SFA+ Dengue,MI,HGAL,7:00 AM,Alta
+76,F,B,Lajas,Cienfuegos,Lajas,8B,4,Lifrangitis Aguda,MI,HGAL,8:00 PM,Alta
+54,M,B,Cumanayagua,Cienfuegos,Cumanayagua,12B,5,HQ Apendicitis,MI,HGAL,6:10 PM,Alta
+23,M,B,Cumanayagua,Cienfuegos,Cumanayagua,1A,7,Dolor Abdominal,Cirugía,HGAL,6:25 AM,Alta
+25,M,N,Cumanayagua,Cienfuegos,Cumanayagua,1A,8,Anemia ,Cirugía,HGAL,6:10 PM,Alta
+65,F,M,Cienfuegos,Cienfuegos,Área III,12A,6,NAC,Cirugía,HGAL,6:25 AM,Alta
+34,F,M,Cienfuegos,Cienfuegos,Área III,5A,9,NAC,Cirugía,HGAL,5:30 PM,Alta
+44,F,N,Cienfuegos,Cienfuegos,Área III,7B,3,NAC,Cirugía,HGAL,7:00 AM,Alta
+32,F,N,Cienfuegos,Cienfuegos,Área III,7B,6,NAC,Cirugía,HGAL,6:00 PM,Alta
+34,F,B,Cienfuegos,Cienfuegos,Área II,8B,4,NAC,Cirugía,HGAL,9:10 AM,Alta
+21,M,B,Cienfuegos,Cienfuegos,Área III,10A,12,NAC,Cirugía,HGAL,11:10 PM,Alta
+65,F,B,Cienfuegos,Cienfuegos,Área IV,10B,3,Lifrangitis Aguda,MI,HGAL,7:45 AM,Alta
+56,F,B,Cienfuegos,Cienfuegos,Área V,1A,1,Anemia ,MI,HGAL,7:45 AM,Alta
+34,M,B,Cienfuegos,Cienfuegos,Área VIII,7B,4,NAC,MI,HGAL,6:10 PM,Alta
+22,M,N,Cienfuegos,Cienfuegos,Área VIII,4B,16,SFA+ Dengue,MI,HGAL,6:25 AM,Alta
+44,M,M,Cienfuegos,Cienfuegos,Área VIII,11A,8,Lifrangitis Aguda,MI,HGAL,5:30 PM,Alta
+52,M,N,Cienfuegos,Cienfuegos,Área VIII,9B,7,HQ Apendicitis,MI,HGAL,7:00 AM,Alta
+35,M,B,Cienfuegos,Cienfuegos,Área II,3B,6,HQ Apendicitis,MI,HGAL,6:10 PM,Alta
+23,F,B,Cienfuegos,Cienfuegos,Área III,4B,9,HQ Apendicitis,MI,HGAL,6:25 AM,Alta
+20,F,B,Cienfuegos,Cienfuegos,Área III,3A,10,HQ Apendicitis,MI,HGAL,6:10 PM,Alta
+56,F,B,Cienfuegos,Cienfuegos,Área III,5A,11,HQ Apendicitis,Cirugía,HGAL,5:30 PM,Alta
+20,M,B,Cienfuegos,Cienfuegos,Área II,9B,12,HQ Apendicitis,Cirugía,HGAL,7:00 AM,1A
+16,M,N,Cienfuegos,Cienfuegos,Área III,11A,6,Anemia ,Cirugía,HGAL,6:00 PM,Alta
+12,M,B,Cienfuegos,Cienfuegos,Área IV,12B,3,NAC,Resp,HGAL,9:10 AM,Alta
+21,F,B,Cienfuegos,Cienfuegos,Área V,12A,5,Lifrangitis Aguda,Cirugía,HGAL,11:10 PM,Alta
+19,M,B,Cienfuegos,Cienfuegos,Área VIII,8B,4,Lifrangitis Aguda,MI,HGAL,7:45 AM,Alta
+46,M,B,Cienfuegos,Cienfuegos,Área VIII,12B,5,Anemia ,MI,HGAL,6:10 PM,12B
+37,M,B,Cienfuegos,Cienfuegos,Área VIII,1A,7,NAC,MI,HGAL,6:25 AM,Alta
+76,F,B,Cienfuegos,Cienfuegos,Área I,1A,8,SFA+ Dengue,MI,HGAL,5:30 PM,Alta
+54,M,B,Cienfuegos,Cienfuegos,Área II,12A,6,Lifrangitis Aguda,MI,HGAL,7:00 AM,Alta
+23,M,N,Cienfuegos,Cienfuegos,Área III,1A,9,HQ Apendicitis,MI,HGAL,8:00 PM,1A
+25,F,B,Cienfuegos,Cienfuegos,Área IV,7B,3,Dolor Abdominal,MI,HGAL,6:10 PM,Alta
+65,F,B,Cienfuegos,Cienfuegos,Área V,4B,6,Anemia ,MI,HGAL,6:25 AM,Alta
+34,M,B,Cienfuegos,Cienfuegos,Área VI,11A,4,NAC,MI,HGAL,6:10 PM,Alta
+44,M,B,Cienfuegos,Cienfuegos,Área VII,9B,12,NAC,MI,HGAL,6:25 AM,1A
+32,F,B,Cienfuegos,Cienfuegos,Área VIII,3B,3,NAC,MI,HGAL,5:30 PM,Alta
+34,F,B,Cienfuegos,Cienfuegos,Área VIII,4B,1,NAC,MI,HGAL,7:00 AM,Alta
+21,M,B,Cienfuegos,Cienfuegos,Área VIII,3A,4,Anemia ,MI,HGAL,6:00 PM,12B
+65,F,B,Rodas,Cienfuegos,Rodas,5A,16,Anemia ,MI,HGAL,9:10 AM,Alta
+56,F,B,Cienfuegos,Cienfuegos,Área VIII,9B,8,Anemia ,MI,HGAL,11:10 PM,Alta
+34,M,B,Cienfuegos,Cienfuegos,Área VIII,11A,7,Anemia ,MI,HGAL,7:45 AM,Alta
+22,M,B,Cienfuegos,Cienfuegos,Área VIII,12B,6,Anemia ,MI,HGAL,7:45 AM,1A
+44,F,B,Cienfuegos,Cienfuegos,Área VIII,12A,9,Anemia ,MI,HGAL,6:10 PM,Alta
+52,M,M,Cienfuegos,Cienfuegos,Área III,8B,10,Anemia ,MI,HGAL,6:25 AM,Alta
+35,M,B,Cienfuegos,Cienfuegos,Área III,12B,11,Anemia ,MI,HGAL,5:30 PM,Alta
+23,M,B,Cienfuegos,Cienfuegos,Área II,1A,12,Anemia ,Cirugía,HGAL,7:00 AM,1A
+12,M,N,Cienfuegos,Cienfuegos,Área V,1A,6,Anemia ,Cirugía,HGAL,7:00 AM,Alta
+21,F,M,Cienfuegos,Cienfuegos,Área VIII,12A,3,Anemia ,Cirugía,HGAL,6:25 AM,Alta
+19,F,B,Abreus,Cienfuegos,Abreus,5A,5,Asma Bronquial,Cirugía,HGAL,6:10 PM,Alta
+46,M,B,Abreus,Cienfuegos,Abreus,7B,4,SDB (1B),Cirugía,HGAL,6:25 AM,Alta
+37,F,B,Abreus,Cienfuegos,Abreus,7B,5,HQ Apendicitis,Cirugía,HGAL,5:30 PM,12B
+76,M,B,Abreus,Cienfuegos,Abreus,8B,7,Dolor Abdominal,Cirugía,HGAL,7:00 AM,Alta
+54,F,M,Abreus,Cienfuegos,Abreus,10A,8,Anemia ,Cirugía,HGAL,6:00 PM,Alta
+23,F,B,Abreus,Cienfuegos,Abreus,10B,6,NAC,MI,HGAL,6:00 PM,Alta
+25,M,B,Abreus,Cienfuegos,Abreus,1A,9,SFA+ Dengue,MI,HGAL,9:10 AM,1A
+32,F,B,Abreus,Cienfuegos,Abreus,7B,3,Lifrangitis Aguda,MI,HGAL,11:10 PM,Alta
+21,M,B,Abreus,Cienfuegos,Abreus,4B,6,HQ Apendicitis,MI,HGAL,7:45 AM,Alta
+31,M,B,Abreus,Cienfuegos,Abreus,11A,4,Dolor Abdominal,MI,HGAL,7:45 AM,Alta
+45,M,B,Abreus,Cienfuegos,Abreus,9B,12,Anemia ,MI,HGAL,6:10 PM,Alta
+44,F,B,Abreus,Cienfuegos,Abreus,3B,3,NAC,Resp,HGAL,6:25 AM,Alta
+49,M,N,Cienfuegos,Cienfuegos,Área VIII,4B,1,SFA+ Dengue,Resp,HGAL,5:30 PM,Alta
+52,M,M,Cienfuegos,Cienfuegos,Área VIII,3A,4,Lifrangitis Aguda,Resp,HGAL,7:00 AM,Alta
+29,F,B,Cienfuegos,Cienfuegos,Área VIII,5A,16,Lifrangitis Aguda,Resp,HGAL,7:00 AM,Alta
+36,F,B,Cienfuegos,Cienfuegos,Área III,9B,8,Lifrangitis Aguda,Resp,HGAL,6:25 AM,Alta
+66,F,B,Cienfuegos,Cienfuegos,Área III,11A,7,Lifrangitis Aguda,Resp,HGAL,6:10 PM,Alta
+76,M,B,Cienfuegos,Cienfuegos,Área II,12B,6,Lifrangitis Aguda,Resp,HGAL,6:25 AM,Alta
+74,M,M,Cienfuegos,Cienfuegos,Área V,12A,9,Anemia ,Resp,HGAL,5:30 PM,Alta
+73,M,N,Cienfuegos,Cienfuegos,Área VIII,8B,10,NAC,Resp,HGAL,7:00 AM,Alta
+74,F,M,Cienfuegos,Cienfuegos,Área I,12B,11,SFA+ Dengue,Resp,HGAL,6:00 PM,Alta
+48,F,N,Cienfuegos,Cienfuegos,Área II,1A,12,Lifrangitis Aguda,MI,HGAL,9:10 AM,Alta
+45,F,B,Cienfuegos,Cienfuegos,Área III,1A,6,HQ Apendicitis,MI,HGAL,9:10 AM,1A
+66,M,B,Cienfuegos,Cienfuegos,Área IV,12A,3,Dolor Abdominal,MI,HGAL,6:25 AM,Alta
+60,F,B,Cienfuegos,Cienfuegos,Área V,5A,5,Anemia ,MI,HGAL,6:10 PM,Alta
+87,F,B,Cienfuegos,Cienfuegos,Área VIII,7B,4,NAC,MI,HGAL,6:25 AM,Alta
+62,F,B,Cienfuegos,Cienfuegos,Área VIII,7B,5,NAC,MI,HGAL,5:30 PM,Alta
+71,F,B,Cienfuegos,Cienfuegos,Área I,8B,7,NAC,MI,HGAL,7:00 AM,12B
+87,M,N,Cienfuegos,Cienfuegos,Área II,10A,8,NAC,Cirugía,HGAL,6:00 PM,Alta
+53,F,M,Cienfuegos,Cienfuegos,Área III,10B,6,NAC,Cirugía,HGAL,9:10 AM,Alta
+64,M,N,Cienfuegos,Cienfuegos,Área VIII,1A,9,NAC,Cirugía,HGAL,11:10 PM,Alta
+48,M,N,Cienfuegos,Cienfuegos,Área VIII,7B,3,Lifrangitis Aguda,Cirugía,HGAL,7:45 AM,1A
+47,F,B,Cienfuegos,Cienfuegos,Área VIII,4B,6,Anemia ,Cirugía,HGAL,6:10 PM,Alta
+46,F,B,Cienfuegos,Cienfuegos,Área VIII,11A,4,NAC,Cirugía,HGAL,6:25 AM,Alta
+65,F,B,Cienfuegos,Cienfuegos,Área VIII,9B,12,SFA+ Dengue,MI,HGAL,5:30 PM,Alta
+67,M,M,Cienfuegos,Cienfuegos,Área III,3B,3,Lifrangitis Aguda,MI,HGAL,7:00 AM,1A
+52,F,B,Cienfuegos,Cienfuegos,Área III,4B,1,HQ Apendicitis,Resp,HGAL,8:00 PM,Alta
+68,F,B,Cienfuegos,Cienfuegos,Área III,3A,4,HQ Apendicitis,Resp,HGAL,6:10 PM,Alta
+70,F,B,Cienfuegos,Cienfuegos,Área IV,5A,16,HQ Apendicitis,MI,HGAL,6:25 AM,Alta
+71,M,B,Cienfuegos,Cienfuegos,Área V,9B,8,HQ Apendicitis,MI,HGAL,6:10 PM,Alta
+61,M,B,Cienfuegos,Cienfuegos,Área VIII,11A,7,HQ Apendicitis,MI,HGAL,6:25 AM,12B
+54,M,B,Cienfuegos,Cienfuegos,Área VIII,12B,6,HQ Apendicitis,Cirugía,HGAL,5:30 PM,Alta
+49,F,B,Cienfuegos,Cienfuegos,Área I,12A,9,Anemia ,Cirugía,HGAL,7:00 AM,Alta
+55,F,B,Cienfuegos,Cienfuegos,Área II,8B,10,NAC,Cirugía,HGAL,6:00 PM,1A
+59,M,M,Cienfuegos,Cienfuegos,Área III,12B,11,SFA+ Dengue,Resp,HGAL,9:10 AM,Alta
+81,F,B,Cienfuegos,Cienfuegos,Área VIII,1A,12,Lifrangitis Aguda,Cirugía,HGAL,11:10 PM,Alta
+55,F,B,Cienfuegos,Cienfuegos,Área III,1A,6,Lifrangitis Aguda,MI,HGAL,7:45 AM,Alta
+65,F,B,Cienfuegos,Cienfuegos,Área V,12A,3,Lifrangitis Aguda,MI,HGAL,7:45 AM,Alta
+70,F,N,Cienfuegos,Cienfuegos,Área VIII,5A,5,Lifrangitis Aguda,MI,HGAL,6:10 PM,12B
+83,F,B,Cienfuegos,Cienfuegos,Área VIII,7B,4,Lifrangitis Aguda,MI,HGAL,6:25 AM,Alta
+65,M,B,Cienfuegos,Cienfuegos,Área I,7B,5,Anemia ,MI,HGAL,5:30 PM,Alta
+59,M,B,Cienfuegos,Cienfuegos,Área II,8B,7,NAC,MI,HGAL,7:00 AM,Alta
+70,M,B,Cienfuegos,Cienfuegos,Área III,10A,8,SFA+ Dengue,Cirugía,HGAL,7:00 AM,Alta
+81,F,B,Cienfuegos,Cienfuegos,Área VIII,10B,6,Lifrangitis Aguda,Cirugía,HGAL,6:25 AM,1A
+80,F,N,Cienfuegos,Cienfuegos,Área VIII,1A,9,HQ Apendicitis,Cirugía,HGAL,6:10 PM,Alta
+78,F,M,Cienfuegos,Cienfuegos,Área VIII,7B,3,Dolor Abdominal,Cirugía,HGAL,6:25 AM,Alta
+61,F,M,Cienfuegos,Cienfuegos,Área VIII,4B,6,Anemia ,Cirugía,HGAL,5:30 PM,Alta
+82,M,N,Cienfuegos,Cienfuegos,Área VIII,11A,4,NAC,Cirugía,HGAL,7:00 AM,Alta
+75,F,N,Cienfuegos,Cienfuegos,Área III,9B,12,NAC,MI,HGAL,6:00 PM,12B
+55,M,B,Cienfuegos,Cienfuegos,Área III,3B,3,NAC,MI,HGAL,6:00 PM,Alta
+60,F,B,Cienfuegos,Cienfuegos,Área III,4B,1,NAC,MI,HGAL,9:10 AM,Alta
+72,F,B,Cienfuegos,Cienfuegos,Área IV,3A,4,NAC,MI,HGAL,11:10 PM,Alta
+73,M,B,Cienfuegos,Cienfuegos,Área V,5A,16,NAC,MI,HGAL,7:45 AM,1A
+85,M,B,Cienfuegos,Cienfuegos,Área VIII,9B,8,Lifrangitis Aguda,MI,HGAL,7:45 AM,Alta
+48,F,N,Cienfuegos,Cienfuegos,Área VIII,11A,7,Anemia ,Resp,HGAL,6:10 PM,Alta
+69,M,M,Cienfuegos,Cienfuegos,Área VIII,12B,6,NAC,Resp,HGAL,6:25 AM,Alta
+73,F,N,Cienfuegos,Cienfuegos,Área VIII,12A,9,SFA+ Dengue,Resp,HGAL,6:00 PM,Alta
+47,M,B,Cienfuegos,Cienfuegos,Área I,8B,10,Lifrangitis Aguda,Resp,HGAL,9:10 AM,1A
+56,M,B,Cienfuegos,Cienfuegos,Área V,12B,11,HQ Apendicitis,MI,HGAL,11:10 PM,Alta
+74,M,B,Cienfuegos,Cienfuegos,Área III,1A,12,HQ Apendicitis,Cirugía,HGAL,7:45 AM,Alta
+68,F,B,Cienfuegos,Cienfuegos,Área V,1A,6,SFA+ Dengue,Cirugía,HGAL,6:10 PM,Alta
+71,M,B,Cienfuegos,Cienfuegos,Área V,12A,3,Lifrangitis Aguda,Cirugía,HGAL,6:25 AM,Alta
+49,F,N,Cruces,Cienfuegos,Cruces,5A,5,Lifrangitis Aguda,Cirugía,HGAL,5:30 PM,12B
+92,F,B,Cruces,Cienfuegos,Cruces,7B,4,Lifrangitis Aguda,Cirugía,HGAL,7:00 AM,Alta
+52,M,B,Cruces,Cienfuegos,Cruces,7B,5,Lifrangitis Aguda,Cirugía,HGAL,8:00 PM,Alta
+56,F,B,Cruces,Cienfuegos,Cruces,8B,7,Lifrangitis Aguda,MI,HGAL,6:10 PM,Alta
+94,M,B,Cruces,Cienfuegos,Cruces,10A,8,Anemia ,MI,HGAL,6:25 AM,1A
+62,M,B,Cruces,Cienfuegos,Cruces,10B,6,NAC,Resp,HGAL,6:10 PM,Alta
+62,F,B,Cruces,Cienfuegos,Cruces,1A,9,SFA+ Dengue,Resp,HGAL,6:25 AM,Alta
+92,M,B,Cienfuegos,Cienfuegos,Área V,7B,3,Lifrangitis Aguda,Resp,HGAL,5:30 PM,Alta
+67,M,N,Cienfuegos,Cienfuegos,Área II,4B,6,HQ Apendicitis,Resp,HGAL,7:00 AM,Alta
+65,M,B,Cienfuegos,Cienfuegos,Área V,11A,4,Dolor Abdominal,Resp,HGAL,6:00 PM,Alta
+81,M,B,Cienfuegos,Cienfuegos,Área VIII,9B,12,Anemia ,Resp,HGAL,9:10 AM,Alta
+86,F,B,Cienfuegos,Cienfuegos,Área V,3B,3,NAC,MI,HGAL,11:10 PM,Alta
+78,F,B,Cienfuegos,Cienfuegos,Área VIII,4B,1,NAC,MI,HGAL,7:45 AM,Alta
+47,M,B,Cienfuegos,Cienfuegos,Área VIII,3A,4,NAC,MI,HGAL,7:45 AM,Alta
+59,M,B,Cienfuegos,Cienfuegos,Área III,5A,16,NAC,MI,HGAL,6:10 PM,Alta
+35,F,B,Cienfuegos,Cienfuegos,Área IV,9B,8,NAC,Cirugía,HGAL,6:25 AM,Alta
+45,F,B,Cienfuegos,Cienfuegos,Área V,11A,7,NAC,Cirugía,HGAL,5:30 PM,Alta
+22,M,B,Cienfuegos,Cienfuegos,Área V,12B,6,Lifrangitis Aguda,Cirugía,HGAL,7:00 AM,Alta
+39,F,B,Cienfuegos,Cienfuegos,Área II,12A,9,Anemia ,Cirugía,HGAL,7:00 AM,Alta
+29,F,B,Cienfuegos,Cienfuegos,Área V,8B,10,NAC,Cirugía,HGAL,6:25 AM,Alta
+46,M,B,Cienfuegos,Cienfuegos,Área VIII,12B,11,SFA+ Dengue,Cirugía,HGAL,6:10 PM,1A
+41,M,M,Cienfuegos,Cienfuegos,Área V,1A,12,Lifrangitis Aguda,Cirugía,HGAL,6:25 AM,Alta
+28,M,B,Cienfuegos,Cienfuegos,Área IV,1A,6,HQ Apendicitis,Cirugía,HGAL,5:30 PM,Alta
+42,M,B,Cienfuegos,Cienfuegos,Área V,12A,3,HQ Apendicitis,MI,HGAL,7:00 AM,Alta
+42,F,N,Cienfuegos,Cienfuegos,Área VIII,5A,5,SFA+ Dengue,MI,HGAL,6:00 PM,Alta
+78,M,M,Cienfuegos,Cienfuegos,Área VIII,7B,4,SFA+ Dengue,MI,HGAL,6:00 PM,12B
+48,F,B,Cienfuegos,Cienfuegos,Área III,7B,5,SFA+ Dengue,MI,HGAL,9:10 AM,Alta
+44,M,B,Cienfuegos,Cienfuegos,Área IV,8B,7,SFA+ Dengue,MI,HGAL,11:10 PM,Alta
+72,F,B,Cienfuegos,Cienfuegos,Área V,10A,8,SFA+ Dengue,MI,HGAL,7:45 AM,Alta
+20,M,B,Cienfuegos,Cienfuegos,Área V,10B,6,SFA+ Dengue,MI,HGAL,7:45 AM,1A
+50,F,M,Cienfuegos,Cienfuegos,Área II,1A,9,SFA+ Dengue,MI,HGAL,6:10 PM,Alta
+77,M,B,Cienfuegos,Cienfuegos,Área V,7B,3,SFA+ Dengue,MI,HGAL,6:00 PM,Alta
+61,M,B,Cienfuegos,Cienfuegos,Área VIII,4B,6,SFA+ Dengue,MI,HGAL,9:10 AM,Alta
+70,M,B,Cienfuegos,Cienfuegos,Área V,11A,1,SFA+ Dengue,MI,HGAL,11:10 PM,Alta
+53,M,B,Cienfuegos,Cienfuegos,Área IV,9B,4,SFA+ Dengue,MI,HGAL,7:45 AM,Alta
+60,F,B,Cienfuegos,Cienfuegos,Área V,3B,16,SFA+ Dengue,MI,HGAL,6:10 PM,Alta
+57,M,B,Cienfuegos,Cienfuegos,Área V,4B,8,SFA+ Dengue,MI,HGAL,6:25 AM,Alta
+56,F,B,Cienfuegos,Cienfuegos,Área II,3A,7,SFA+ Dengue,MI,HGAL,5:30 PM,Alta
+49,F,N,Cienfuegos,Cienfuegos,Área V,5A,6,SFA+ Dengue,MI,HGAL,7:00 AM,Alta
+51,F,M,Cienfuegos,Cienfuegos,Área VIII,9B,9,SFA+ Dengue,MI,HGAL,8:00 PM,Alta
+59,M,B,Cienfuegos,Cienfuegos,Área II,11A,10,SFA+ Dengue,MI,HGAL,6:10 PM,Alta
+50,M,B,Cienfuegos,Cienfuegos,Área II,12B,11,SFA+ Dengue,MI,HGAL,6:25 AM,Alta
+61,M,B,Cienfuegos,Cienfuegos,Área V,12A,12,HQ Apendicitis,MI,HGAL,6:10 PM,Alta
+52,M,B,Palmira,Cienfuegos,Palmira,8B,6,Dolor Abdominal,MI,HGAL,6:25 AM,Alta
+45,M,B,Cienfuegos,Cienfuegos,Área VIII,12B,3,Anemia ,Cirugía,HGAL,5:30 PM,Alta
+51,M,B,Cienfuegos,Cienfuegos,Área V,1A,5,NAC,Cirugía,HGAL,7:00 AM,Alta
+78,M,B,Cienfuegos,Cienfuegos,Área II,1A,4,SFA+ Dengue,Cirugía,HGAL,6:00 PM,Alta
+55,M,B,Cienfuegos,Cienfuegos,Área VIII,12A,5,Lifrangitis Aguda,Cirugía,HGAL,9:10 AM,Alta
+71,F,B,Cienfuegos,Cienfuegos,Área V,5A,7,HQ Apendicitis,Cirugía,HGAL,11:10 PM,Alta
+80,M,B,Cienfuegos,Cienfuegos,Área IV,7B,8,Dolor Abdominal,Cirugía,HGAL,7:45 AM,Alta
+73,F,N,Cienfuegos,Cienfuegos,Área V,7B,6,Anemia ,Cirugía,HGAL,7:45 AM,Alta
+54,M,M,Cienfuegos,Cienfuegos,Área V,8B,9,NAC,Cirugía,HGAL,6:10 PM,1A
+63,F,B,Cienfuegos,Cienfuegos,Área VIII,10A,3,SFA+ Dengue,MI,HGAL,6:25 AM,Alta
+70,M,B,Palmira,Cienfuegos,Palmira,10B,6,Lifrangitis Aguda,MI,HGAL,5:30 PM,Alta
+29,M,B,Palmira,Cienfuegos,Palmira,1A,4,Lifrangitis Aguda,Resp,HGAL,7:00 AM,Alta
+33,F,B,Palmira,Cienfuegos,Palmira,7B,12,Lifrangitis Aguda,Resp,HGAL,7:00 AM,Alta
+63,M,B,Palmira,Cienfuegos,Palmira,4B,3,Lifrangitis Aguda,Resp,HGAL,6:25 AM,12B
+55,M,N,Palmira,Cienfuegos,Palmira,11A,1,Lifrangitis Aguda,Resp,HGAL,6:10 PM,Alta
+70,F,M,Palmira,Cienfuegos,Palmira,9B,4,Anemia ,Resp,HGAL,6:25 AM,Alta
+81,F,N,Cumanayagua,Cienfuegos,Cumanayagua,3B,16,NAC,Resp,HGAL,5:30 PM,Alta
+72,F,B,Cumanayagua,Cienfuegos,Cumanayagua,4B,8,SFA+ Dengue,MI,HGAL,7:00 AM,1A
+78,M,B,Cumanayagua,Cienfuegos,Cumanayagua,3A,7,Lifrangitis Aguda,MI,HGAL,6:00 PM,Alta
+72,M,B,Cumanayagua,Cienfuegos,Cumanayagua,5A,6,HQ Apendicitis,MI,HGAL,6:00 PM,Alta
+57,F,B,Cumanayagua,Cienfuegos,Cumanayagua,9B,9,Dolor Abdominal,MI,HGAL,9:10 AM,Alta
+68,F,B,Cumanayagua,Cienfuegos,Cumanayagua,11A,10,Anemia ,MI,HGAL,11:10 PM,1A
+50,F,N,Cienfuegos,Cienfuegos,Área VI,12B,11,NAC,MI,HGAL,7:45 AM,Alta
+75,M,B,Cienfuegos,Cienfuegos,Área VII,12A,12,NAC,MI,HGAL,7:45 AM,Alta
+75,F,B,Cienfuegos,Cienfuegos,Área VIII,8B,6,NAC,Cirugía,HGAL,6:10 PM,Alta
+55,M,B,Cienfuegos,Cienfuegos,Área VIII,12B,3,NAC,Cirugía,HGAL,6:25 AM,Alta
+59,F,B,Cienfuegos,Cienfuegos,Área VIII,1A,5,NAC,Cirugía,HGAL,5:30 PM,12B
+66,F,B,Cienfuegos,Cienfuegos,Área VIII,1A,4,NAC,Cirugía,HGAL,7:00 AM,Alta
+86,F,B,Cienfuegos,Cienfuegos,Área VI,12A,5,Lifrangitis Aguda,Cirugía,HGAL,7:00 AM,Alta
+82,F,B,Cienfuegos,Cienfuegos,Área VII,5A,7,Anemia ,Cirugía,HGAL,6:25 AM,Alta
+71,F,N,Cienfuegos,Cienfuegos,Área VIII,7B,8,NAC,MI,HGAL,6:10 PM,1A
+31,F,B,Cienfuegos,Cienfuegos,Área VIII,7B,6,SFA+ Dengue,MI,HGAL,6:25 AM,Alta
+57,F,B,Cienfuegos,Cienfuegos,Área VIII,8B,9,Lifrangitis Aguda,MI,HGAL,5:30 PM,Alta
+60,F,B,Cienfuegos,Cienfuegos,Área VIII,10A,3,HQ Apendicitis,MI,HGAL,7:00 AM,Alta
+45,F,B,Cienfuegos,Cienfuegos,Área VI,10B,6,HQ Apendicitis,MI,HGAL,6:00 PM,Alta
+66,M,B,Cienfuegos,Cienfuegos,Área VII,1A,4,HQ Apendicitis,MI,HGAL,9:10 AM,Alta
+18,M,B,Cienfuegos,Cienfuegos,Área VIII,7B,12,HQ Apendicitis,MI,HGAL,9:10 AM,1A
+27,F,B,Cienfuegos,Cienfuegos,Área VIII,4B,3,HQ Apendicitis,MI,HGAL,6:25 AM,Alta
+57,M,B,Cienfuegos,Cienfuegos,Área VIII,11A,1,HQ Apendicitis,MI,HGAL,6:10 PM,Alta
+46,F,B,Cienfuegos,Cienfuegos,Área VIII,9B,4,Anemia ,MI,HGAL,5:30 PM,Alta
+74,M,B,Cienfuegos,Cienfuegos,Área V,3B,16,NAC,Resp,HGAL,7:00 AM,Alta
+77,F,B,Cienfuegos,Cienfuegos,Área V,4B,8,Lifrangitis Aguda,Resp,HGAL,6:00 PM,12B
+52,M,B,Cienfuegos,Cienfuegos,Área II,3A,7,Lifrangitis Aguda,Resp,HGAL,9:10 AM,Alta
+78,F,M,Cienfuegos,Cienfuegos,Área V,5A,6,Anemia ,Resp,HGAL,11:10 PM,Alta
+69,M,B,Cienfuegos,Cienfuegos,Área VIII,9B,9,NAC,Resp,HGAL,7:45 AM,Alta
+28,M,B,Cienfuegos,Cienfuegos,Área V,11A,10,SFA+ Dengue,Resp,HGAL,7:45 AM,1A
+70,M,N,Cienfuegos,Cienfuegos,Área IV,12B,11,Lifrangitis Aguda,Resp,HGAL,6:10 PM,Alta
+60,M,M,Cienfuegos,Cienfuegos,Área V,12A,12,HQ Apendicitis,Cirugía,HGAL,6:25 AM,Alta
+76,M,B,Cienfuegos,Cienfuegos,Área VIII,8B,6,Dolor Abdominal,MI,HGAL,5:30 PM,Alta
+77,M,B,Cienfuegos,Cienfuegos,Área VIII,12B,3,Anemia ,MI,HGAL,7:00 AM,1A
+63,M,B,Cienfuegos,Cienfuegos,Área V,1A,5,NAC,MI,HGAL,6:10 PM,Alta
+44,M,B,Cienfuegos,Cienfuegos,Área V,1A,4,NAC,MI,HGAL,6:25 AM,Alta
+61,M,M,Cienfuegos,Cienfuegos,Área II,12A,5,NAC,MI,HGAL,6:10 PM,Alta
+75,F,B,Cienfuegos,Cienfuegos,Área V,5A,7,NAC,MI,HGAL,6:25 AM,Alta
+68,M,B,Cienfuegos,Cienfuegos,Área VIII,7B,8,Anemia ,MI,HGAL,5:30 PM,12B
+82,M,B,Cienfuegos,Cienfuegos,Área V,7B,6,Anemia ,MI,HGAL,7:00 AM,Alta
+41,M,B,Cienfuegos,Cienfuegos,Área IV,8B,9,Anemia ,MI,HGAL,6:00 PM,Alta
+56,F,B,Cienfuegos,Cienfuegos,Área V,10A,3,Anemia ,MI,HGAL,9:10 AM,Alta
+68,F,B,Cienfuegos,Cienfuegos,Área VIII,10B,6,Anemia ,MI,HGAL,5:30 PM,1A
+59,M,B,Cienfuegos,Cienfuegos,Área VIII,1A,4,Anemia ,MI,HGAL,7:00 AM,Alta
+68,F,N,Cienfuegos,Cienfuegos,Área V,7B,12,Anemia ,MI,HGAL,6:00 PM,Alta
+55,M,M,Cienfuegos,Cienfuegos,Área V,4B,3,Anemia ,MI,HGAL,9:10 AM,Alta
+45,F,B,Cienfuegos,Cienfuegos,Área II,11A,1,Anemia ,MI,HGAL,5:30 PM,Alta
+57,F,B,Cienfuegos,Cienfuegos,Área V,9B,4,NAC,MI,HGAL,7:00 AM,Alta
+70,M,B,Cienfuegos,Cienfuegos,Área VIII,3B,16,SFA+ Dengue,MI,HGAL,6:00 PM,Alta
+75,M,B,Cienfuegos,Cienfuegos,Área V,4B,8,Lifrangitis Aguda,MI,HGAL,9:10 AM,Alta
+48,F,M,Cienfuegos,Cienfuegos,Área IV,3A,7,HQ Apendicitis,Cirugía,HGAL,5:30 PM,Alta
+61,F,N,Cienfuegos,Cienfuegos,Área V,5A,6,HQ Apendicitis,Cirugía,HGAL,7:00 AM,Alta
+71,M,M,Cienfuegos,Cienfuegos,Área VIII,9B,9,HQ Apendicitis,Cirugía,HGAL,7:00 AM,Alta
+63,F,N,Cienfuegos,Cienfuegos,Área VIII,11A,10,HQ Apendicitis,Resp,HGAL,6:25 AM,Alta
+39,M,B,Cienfuegos,Cienfuegos,Área V,12B,11,HQ Apendicitis,MI,HGAL,6:10 PM,Alta
+63,F,B,Cienfuegos,Cienfuegos,Área V,12A,12,HQ Apendicitis,MI,HGAL,6:25 AM,Alta
+36,M,B,Cienfuegos,Cienfuegos,Área II,8B,6,Anemia ,MI,HGAL,5:30 PM,Alta
+45,F,B,Cienfuegos,Cienfuegos,Área V,12B,3,NAC,MI,HGAL,7:00 AM,Alta
+40,M,B,Cienfuegos,Cienfuegos,Área VIII,1A,5,Lifrangitis Aguda,MI,HGAL,6:00 PM,Alta
+61,M,B,Cienfuegos,Cienfuegos,Área V,1A,4,Lifrangitis Aguda,MI,HGAL,9:10 AM,Alta
+83,F,N,Cienfuegos,Cienfuegos,Área IV,12A,5,Anemia ,MI,HGAL,9:10 AM,Alta
+79,F,M,Cienfuegos,Cienfuegos,Área V,5A,7,NAC,Cirugía,HGAL,6:25 AM,Alta
+76,F,N,Cienfuegos,Cienfuegos,Área VIII,7B,8,SFA+ Dengue,MI,HGAL,6:10 PM,Alta
+63,F,N,Cienfuegos,Cienfuegos,Área VIII,7B,6,Lifrangitis Aguda,MI,HGAL,5:30 PM,Alta
+72,M,B,Cienfuegos,Cienfuegos,Área V,8B,9,HQ Apendicitis,MI,HGAL,7:00 AM,Alta
+55,F,B,Cienfuegos,Cienfuegos,Área V,10A,3,HQ Apendicitis,MI,HGAL,6:00 PM,1A
+76,M,B,Cienfuegos,Cienfuegos,Área II,10B,6,HQ Apendicitis,MI,HGAL,9:10 AM,Alta
+73,F,M,Cienfuegos,Cienfuegos,Área V,1A,4,HQ Apendicitis,MI,HGAL,11:10 PM,Alta
+54,M,B,Cienfuegos,Cienfuegos,Área VIII,7B,12,HQ Apendicitis,Resp,HGAL,7:45 AM,Alta
+72,F,B,Cienfuegos,Cienfuegos,Área V,4B,3,HQ Apendicitis,MI,HGAL,7:45 AM,Alta
+46,M,B,Cienfuegos,Cienfuegos,Área IV,11A,1,HQ Apendicitis,MI,HGAL,6:10 PM,12B
+81,M,B,Cienfuegos,Cienfuegos,Área V,9B,4,HQ Apendicitis,MI,HGAL,6:25 AM,Alta
+85,F,B,Cienfuegos,Cienfuegos,Área VIII,3B,16,HQ Apendicitis,MI,HGAL,5:30 PM,Alta
+75,F,B,Cienfuegos,Cienfuegos,Área VIII,4B,8,HQ Apendicitis,MI,HGAL,7:00 AM,Alta
+74,M,B,Cienfuegos,Cienfuegos,Área V,3A,7,HQ Apendicitis,Cirugía,HGAL,6:10 PM,1A
+45,F,B,Cienfuegos,Cienfuegos,Área V,5A,6,NAC,Cirugía,HGAL,6:25 AM,Alta
+73,F,M,Cienfuegos,Cienfuegos,Área II,9B,9,NAC,Cirugía,HGAL,6:10 PM,Alta
+62,F,B,Cienfuegos,Cienfuegos,Área V,11A,10,NAC,Cirugía,HGAL,6:25 AM,Alta
+80,M,B,Cienfuegos,Cienfuegos,Área VIII,12B,11,NAC,Resp,HGAL,5:30 PM,1A
+52,F,B,Cienfuegos,Cienfuegos,Área V,12A,12,Anemia ,Resp,HGAL,7:00 AM,Alta
+49,M,N,Cienfuegos,Cienfuegos,Área IV,8B,6,Anemia ,Resp,HGAL,6:00 PM,1A
+55,M,B,Cienfuegos,Cienfuegos,Área V,12B,3,Anemia ,Resp,HGAL,9:10 AM,Alta
+58,F,B,Cienfuegos,Cienfuegos,Área VIII,1A,5,Anemia ,Resp,HGAL,5:30 PM,Alta
+68,F,B,Cienfuegos,Cienfuegos,Área VIII,1A,4,Anemia ,Resp,HGAL,7:00 AM,Alta
+52,F,B,Cienfuegos,Cienfuegos,Área V,12A,5,Anemia ,Cirugía,HGAL,5:30 PM,Alta
+49,M,B,Cienfuegos,Cienfuegos,Área V,5A,7,Anemia ,MI,HGAL,7:00 AM,Alta
+52,M,N,Cruces,Cienfuegos,Cruces,7B,8,Anemia ,MI,HGAL,7:00 AM,Alta
+30,F,M,Cienfuegos,Cienfuegos,Área V,7B,6,Anemia ,MI,HGAL,6:25 AM,Alta
+80,M,M,Cienfuegos,Cienfuegos,Área VI,8B,9,HQ Apendicitis,MI,HGAL,6:10 PM,Alta
+82,M,N,Cienfuegos,Cienfuegos,Área VII,10A,3,HQ Apendicitis,MI,HGAL,6:25 AM,Alta
+60,F,N,Cienfuegos,Cienfuegos,Área VIII,10B,6,HQ Apendicitis,MI,HGAL,5:30 PM,Alta
+85,M,B,Cienfuegos,Cienfuegos,Área VIII,1A,4,HQ Apendicitis,MI,HGAL,7:00 AM,Alta
+84,M,B,Cienfuegos,Cienfuegos,Área VIII,7B,12,Anemia ,MI,HGAL,6:00 PM,Alta
+40,M,B,Cienfuegos,Cienfuegos,Área VIII,4B,3,NAC,MI,HGAL,9:10 AM,Alta
+49,F,B,Cruces,Cienfuegos,Área VIII,11A,1,Lifrangitis Aguda,MI,HGAL,9:10 AM,Alta
+56,M,B,Palmira,Cienfuegos,Palmira,9B,4,Lifrangitis Aguda,MI,HGAL,6:25 AM,Alta
+52,F,N,Rodas,Cienfuegos,Rodas,3B,16,Anemia ,MI,HGAL,6:10 PM,1A
+68,M,M,Abreus,Cienfuegos,Abreus,4B,8,NAC,Cirugía,HGAL,5:30 PM,Alta
+63,F,N,Abreus,Cienfuegos,Abreus,3A,7,SFA+ Dengue,MI,HGAL,7:00 AM,Alta
+64,F,B,Abreus,Cienfuegos,Abreus,5A,6,Lifrangitis Aguda,MI,HGAL,6:00 PM,Alta
+38,M,B,Abreus,Cienfuegos,Abreus,9B,9,HQ Apendicitis,MI,HGAL,9:10 AM,Alta
+57,M,B,Abreus,Cienfuegos,Abreus,11A,10,HQ Apendicitis,Cirugía,HGAL,11:10 PM,1A
+75,F,B,Cienfuegos,Cienfuegos,Área II,12B,11,HQ Apendicitis,Cirugía,HGAL,7:45 AM,Alta
+50,F,B,Cienfuegos,Cienfuegos,Área III,12A,12,HQ Apendicitis,Cirugía,HGAL,7:45 AM,Alta
+32,F,N,Cienfuegos,Cienfuegos,Área IV,8B,6,HQ Apendicitis,Resp,HGAL,6:10 PM,Alta
+54,F,B,Cienfuegos,Cienfuegos,Área V,12B,3,HQ Apendicitis,Cirugía,HGAL,6:25 AM,Alta
+84,M,N,Cienfuegos,Cienfuegos,Área VI,1A,5,HQ Apendicitis,MI,HGAL,5:30 PM,12B
+92,F,M,Cienfuegos,Cienfuegos,Área VII,1A,4,Anemia ,MI,HGAL,7:00 AM,Alta
+83,M,M ,Cienfuegos,Cienfuegos,Área VIII,12A,5,NAC,MI,HGAL,6:10 PM,Alta
+54,M,B,Cienfuegos,Cienfuegos,Área VIII,5A,7,Lifrangitis Aguda,MI,HGAL,6:25 AM,1A
+80,F,B,Cienfuegos,Cienfuegos,Área VIII,7B,8,Lifrangitis Aguda,MI,HGAL,6:10 PM,Alta
+74,M,N,Cienfuegos,Cienfuegos,Área VIII,7B,6,Anemia ,MI,HGAL,6:25 AM,Alta
+80,M,N,Cienfuegos,Cienfuegos,Área VIII,8B,9,NAC,MI,HGAL,5:30 PM,Alta
+90,F,M,Cienfuegos,Cienfuegos,Área VIII,10A,3,SFA+ Dengue,MI,HGAL,7:00 AM,Alta
+77,F,M,Cienfuegos,Cienfuegos,Área II,10B,6,SFA+ Dengue,MI,HGAL,6:00 PM,Alta
+90,M,B,Cienfuegos,Cienfuegos,Área III,1A,4,SFA+ Dengue,MI,HGAL,9:10 AM,Alta
+50,F,B,Cienfuegos,Cienfuegos,Área IV,7B,12,SFA+ Dengue,Cirugía,HGAL,5:30 PM,Alta
+49,F,B,Cienfuegos,Cienfuegos,Área V,4B,3,SFA+ Dengue,Cirugía,HGAL,5:30 PM,Alta
+63,F,B,Cienfuegos,Cienfuegos,Área VI,11A,1,SFA+ Dengue,Cirugía,HGAL,7:00 AM,12B
+68,F,M,Cienfuegos,Cienfuegos,Área II,9B,4,SFA+ Dengue,Cirugía,HGAL,7:00 AM,Alta
+73,M,N,Cienfuegos,Cienfuegos,Área III,3B,16,SFA+ Dengue,Cirugía,HGAL,6:25 AM,Alta
+59,M,M,Cienfuegos,Cienfuegos,Área IV,4B,8,SFA+ Dengue,Cirugía,HGAL,6:10 PM,Alta
+66,F,N,Cienfuegos,Cienfuegos,Área V,3A,7,SFA+ Dengue,Cirugía,HGAL,6:25 AM,1A
+65,M,B,Cienfuegos,Cienfuegos,Área VI,5A,6,SFA+ Dengue,Resp,HGAL,5:30 PM,Alta
+64,M,B,Cienfuegos,Cienfuegos,Área VII,9B,9,SFA+ Dengue,Resp,HGAL,7:00 AM,Alta
+84,M,B,Cienfuegos,Cienfuegos,Área VIII,11A,10,SFA+ Dengue,Resp,HGAL,6:00 PM,Alta
+68,M,B,Cienfuegos,Cienfuegos,Área VIII,12B,11,SFA+ Dengue,Resp,HGAL,9:10 AM,Alta
+71,M,B,Cienfuegos,Cienfuegos,Área VIII,12A,12,SFA+ Dengue,Resp,HGAL,9:10 AM,Alta
+73,F,B,Cienfuegos,Cienfuegos,Área II,8B,6,SFA+ Dengue,Resp,HGAL,6:25 AM,Alta
+73,M,N,Cienfuegos,Cienfuegos,Área III,12B,3,SFA+ Dengue,Resp,HGAL,6:10 PM,Alta
+66,M,M,Cienfuegos,Cienfuegos,Área IV,1A,5,SFA+ Dengue,Resp,HGAL,5:30 PM,Alta
+53,F,N,Cienfuegos,Cienfuegos,Área V,1A,4,SFA+ Dengue,MI,HGAL,7:00 AM,1A
+76,M,N,Cienfuegos,Cienfuegos,Área IV,12A,5,SFA+ Dengue,MI,HGAL,6:00 PM,Alta
+51,M,B,Cienfuegos,Cienfuegos,Área V,5A,7,SFA+ Dengue,MI,HGAL,9:10 AM,Alta
+42,F,B,Cienfuegos,Cienfuegos,Área VI,7B,8,SFA+ Dengue,MI,HGAL,11:10 PM,Alta
+55,M,B,Cienfuegos,Cienfuegos,Área II,7B,6,SFA+ Dengue,MI,HGAL,7:45 AM,Alta
+52,F,M,Cienfuegos,Cienfuegos,Área III,8B,9,SFA+ Dengue,Cirugía,HGAL,7:45 AM,12B
+78,F,B,Cienfuegos,Cienfuegos,Área IV,10A,3,SFA+ Dengue,Cirugía,HGAL,6:10 PM,Alta
+66,M,B,Cienfuegos,Cienfuegos,Área V,10B,6,SFA+ Dengue,Cirugía,HGAL,6:25 AM,Alta
+57,M,B,Cienfuegos,Cienfuegos,Área V,1A,4,NAC,Resp,HGAL,5:30 PM,Alta
+58,M,B,Cruces,Cienfuegos,Cruces,7B,12,Lifrangitis Aguda,Cirugía,HGAL,7:00 AM,Alta
+61,F,B,Palmira,Cienfuegos,Palmira,4B,3,Lifrangitis Aguda,Cirugía,HGAL,6:10 PM,12B
+56,M,B,Palmira,Cienfuegos,Palmira,11A,1,Anemia ,Cirugía,HGAL,6:25 AM,Alta
+63,M,B,Palmira,Cienfuegos,Palmira,9B,4,NAC,Cirugía,HGAL,6:10 PM,Alta
+82,F,B,Palmira,Cienfuegos,Palmira,3B,16,SFA+ Dengue,Cirugía,HGAL,6:25 AM,Alta
+74,F,M,Palmira,Cienfuegos,Palmira,4B,8,Lifrangitis Aguda,Cirugía,HGAL,5:30 PM,1A
+40,F,B,Palmira,Cienfuegos,Palmira,3A,7,HQ Apendicitis,Cirugía,HGAL,7:00 AM,Alta
+58,F,B,Palmira,Cienfuegos,Palmira,5A,6,HQ Apendicitis,MI,HGAL,6:00 PM,Alta
+75,M,B,Abreus,Cienfuegos,Abreus,9B,9,HQ Apendicitis,MI,HGAL,9:10 AM,Alta
+66,F,N,Abreus,Cienfuegos,Abreus,11A,10,HQ Apendicitis,MI,HGAL,5:30 PM,Alta
+54,F,B,Abreus,Cienfuegos,Abreus,12B,11,HQ Apendicitis,Cirugía,HGAL,7:00 AM,Alta
+53,F,B,Abreus,Cienfuegos,Abreus,12A,12,HQ Apendicitis,Cirugía,HGAL,6:00 PM,1A
+75,F,B,Abreus,Cienfuegos,Abreus,8B,6,HQ Apendicitis,Cirugía,HGAL,9:10 AM,Alta
+50,F,B,Cienfuegos,Cienfuegos,Área IV,12B,3,Anemia ,Cirugía,HGAL,5:30 PM,Alta
+88,F,B,Cienfuegos,Cienfuegos,Área V,1A,5,NAC,Cirugía,HGAL,7:00 AM,Alta
+70,F,N,Cienfuegos,Cienfuegos,Área VI,1A,4,Lifrangitis Aguda,Cirugía,HGAL,6:00 PM,Alta
+83,F,M,Cienfuegos,Cienfuegos,Área II,12A,5,Lifrangitis Aguda,MI,HGAL,5:30 PM,Alta
+84,M,M,Cienfuegos,Cienfuegos,Área III,5A,7,Anemia ,MI,HGAL,7:00 AM,1A
+97,F,N,Cienfuegos,Cienfuegos,Área IV,7B,8,NAC,Resp,HGAL,7:00 AM,Alta
+74,F,N,Cienfuegos,Cienfuegos,Área V,7B,6,SFA+ Dengue,MI,HGAL,6:25 AM,Alta
+56,F,B,Cienfuegos,Cienfuegos,Área VI,8B,9,SFA+ Dengue,MI,HGAL,6:10 PM,Alta
+73,F,B,Cienfuegos,Cienfuegos,Área II,10A,3,SFA+ Dengue,MI,HGAL,6:25 AM,Alta
+44,F,B,Cienfuegos,Cienfuegos,Área III,10B,6,SFA+ Dengue,MI,HGAL,5:30 PM,12B
+70,M,B,Cienfuegos,Cienfuegos,Área VI,1A,4,SFA+ Dengue,Cirugía,HGAL,7:00 AM,Alta
+54,F,B,Cienfuegos,Cienfuegos,Área II,7B,12,SFA+ Dengue,Cirugía,HGAL,6:00 PM,Alta
+55,F,N,Cienfuegos,Cienfuegos,Área III,4B,3,SFA+ Dengue,Cirugía,HGAL,9:10 AM,Alta
+74,M,M,Cienfuegos,Cienfuegos,Área VI,11A,1,NAC,MI,HGAL,9:10 AM,1A
+58,M,N,Cienfuegos,Cienfuegos,Área VI,9B,4,SFA+ Dengue,MI,HGAL,6:25 AM,Alta
+58,F,B,Cienfuegos,Cienfuegos,Área II,3B,16,Lifrangitis Aguda,MI,HGAL,6:10 PM,Alta
+53,F,B,Cienfuegos,Cienfuegos,Área III,4B,8,HQ Apendicitis,MI,HGAL,5:30 PM,Alta
+80,F,B,Cienfuegos,Cienfuegos,Área VI,3A,7,Dolor Abdominal,MI,HGAL,7:00 AM,Alta
+75,M,B,Cienfuegos,Cienfuegos,Área II,5A,6,Anemia ,MI,HGAL,6:00 PM,Alta
+69,F,M,Cienfuegos,Cienfuegos,Área III,9B,9,NAC,MI,HGAL,9:10 AM,Alta
+75,M,N,Cienfuegos,Cienfuegos,Área II,11A,10,SFA+ Dengue,MI,HGAL,11:10 PM,Alta
+78,F,M,Cienfuegos,Cienfuegos,Área III,12B,11,Lifrangitis Aguda,MI,HGAL,7:45 AM,Alta
+58,M,N,Cruces,Cienfuegos,Cruces,12A,12,Lifrangitis Aguda,MI,HGAL,7:45 AM,Alta
+57,F,B,Cruces,Cienfuegos,Cruces,8B,6,Lifrangitis Aguda,Cirugía,HGAL,6:10 PM,Alta
+73,F,B,Cruces,Cienfuegos,Cruces,12B,3,Lifrangitis Aguda,Cirugía,HGAL,6:25 AM,Alta
+59,F,B,Abreus,Cienfuegos,Abreus,1A,5,Lifrangitis Aguda,MI,HGAL,5:30 PM,Alta
+54,F,B,Cruces,Cienfuegos,Cruces,1A,4,Anemia ,MI,HGAL,7:00 AM,Alta
+49,F,B,Cruces,Cienfuegos,Cruces,12A,5,NAC,Resp,HGAL,6:10 PM,Alta
+39,F,B,Cruces,Cienfuegos,Cruces,1A,7,SFA+ Dengue,Resp,HGAL,6:25 AM,Alta
+70,F,N,Cruces,Cienfuegos,Cruces,7B,8,Lifrangitis Aguda,Resp,HGAL,6:10 PM,Alta
+73,F,M,Lajas,Cienfuegos,Lajas,4B,6,HQ Apendicitis,Resp,HGAL,6:25 AM,1A
+71,F,N,Lajas,Cienfuegos,Lajas,11A,9,Dolor Abdominal,Resp,HGAL,5:30 PM,Alta
+65,M,N,Lajas,Cienfuegos,Lajas,9B,3,Anemia ,Resp,HGAL,7:00 AM,Alta
+78,M,B,Lajas,Cienfuegos,Lajas,3B,6,NAC,MI,HGAL,6:00 PM,Alta
+80,F,B,Lajas,Cienfuegos,Lajas,4B,4,NAC,MI,HGAL,9:10 AM,Alta
+58,F,B,Lajas,Cienfuegos,Lajas,3A,12,NAC,MI,HGAL,5:30 PM,Alta
+55,M,M,Cumanayagua,Cienfuegos,Cumanayagua,5A,3,NAC,MI,HGAL,7:00 AM,Alta
+32,M,B,Cumanayagua,Cienfuegos,Cumanayagua,9B,1,NAC,MI,HGAL,6:00 PM,1A
+57,F,B,Cumanayagua,Cienfuegos,Cumanayagua,11A,4,NAC,MI,HGAL,5:30 PM,Alta
+34,F,B,Cienfuegos,Cienfuegos,Área VI,12B,16,Lifrangitis Aguda,MI,HGAL,7:00 AM,Alta
+31,M,B,Cienfuegos,Cienfuegos,Área VI,12A,8,Anemia ,MI,HGAL,7:00 AM,Alta
+64,M,B,Cienfuegos,Cienfuegos,Área II,8B,7,NAC,MI,HGAL,6:25 AM,Alta
+67,M,B,Cienfuegos,Cienfuegos,Área III,12B,6,SFA+ Dengue,Resp,HGAL,6:10 PM,Alta
+42,M,B,Cienfuegos,Cienfuegos,Área VI,1A,9,Lifrangitis Aguda,Resp,HGAL,6:25 AM,Alta
+31,M,B,Cienfuegos,Cienfuegos,Área II,1A,10,HQ Apendicitis,Resp,HGAL,5:30 PM,Alta
+21,F,M,Cienfuegos,Cienfuegos,Área III,12A,11,HQ Apendicitis,Resp,HGAL,7:00 AM,Alta
+29,F,B,Cienfuegos,Cienfuegos,Área VI,5A,12,HQ Apendicitis,Resp,HGAL,6:00 PM,Alta
+30,F,B,Cienfuegos,Cienfuegos,Área VI,7B,6,HQ Apendicitis,Resp,HGAL,9:10 AM,Alta
+36,F,B,Cienfuegos,Cienfuegos,Área II,7B,3,HQ Apendicitis,Resp,HGAL,9:10 AM,Alta
+32,M,N,Cienfuegos,Cienfuegos,Área III,8B,5,NAC,Resp,HGAL,6:25 AM,Alta
+60,F,B,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,10A,4,SFA+ Dengue,Resp,HGAL,6:10 PM,1A
+51,F,B,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,10B,5,Lifrangitis Aguda,Resp,HGAL,5:30 PM,Alta
+68,M,B,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,1A,7,HQ Apendicitis,Resp,HGAL,7:00 AM,Alta
+35,M,B,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,7B,8,Dolor Abdominal,MI,HGAL,6:00 PM,Alta
+44,F,B,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,4B,6,Anemia ,MI,HGAL,9:10 AM,Alta
+35,M,N,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,11A,9,NAC,MI,HGAL,11:10 PM,Alta
+39,F,M,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,9B,3,SFA+ Dengue,Cirugía,HGAL,7:45 AM,Alta
+32,F,M,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,3B,6,Lifrangitis Aguda,MI,HGAL,7:45 AM,Alta
+57,F,N,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,4B,4,Lifrangitis Aguda,MI,HGAL,6:10 PM,1A
+30,F,N,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,3A,12,Lifrangitis Aguda,MI,HGAL,6:25 AM,Alta
+29,F,B,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,5A,3,Lifrangitis Aguda,MI,HGAL,5:30 PM,Alta
+45,M,B,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,9B,1,Lifrangitis Aguda,MI,HGAL,7:00 AM,Alta
+36,F,B,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,11A,4,Anemia ,MI,HGAL,6:10 PM,Alta
+46,F,B,Lajas,Cienfuegos,Lajas,12B,16,NAC,Resp,HGAL,6:25 AM,Alta
+42,F,B,Cienfuegos,Cienfuegos,Área VI,12A,8,SFA+ Dengue,MI,HGAL,6:10 PM,Alta
+57,F,N,Cienfuegos,Cienfuegos,Área VI,8B,7,Lifrangitis Aguda,MI,HGAL,6:25 AM,Alta
+47,M,B,Cienfuegos,Cienfuegos,Área II,12B,6,HQ Apendicitis,Cirugía,HGAL,5:30 PM,Alta
+52,F,B,Cienfuegos,Cienfuegos,Área III,1A,9,Dolor Abdominal,Resp,HGAL,7:00 AM,Alta
+55,F,B,Cienfuegos,Cienfuegos,Área VI,1A,10,Anemia ,Resp,HGAL,6:00 PM,Alta
+59,F,B,Cienfuegos,Cienfuegos,Área II,12A,11,NAC,Resp,HGAL,9:10 AM,Alta
+28,M,N,Cienfuegos,Cienfuegos,Área III,5A,12,NAC,Resp,HGAL,5:30 PM,Alta
+71,F,B,Cienfuegos,Cienfuegos,Área VI,7B,6,NAC,Resp,HGAL,7:00 AM,1A
+68,M,B,Cienfuegos,Cienfuegos,Área VI,7B,3,NAC,Resp,HGAL,6:00 PM,Alta
+66,F,B,Cienfuegos,Cienfuegos,Área II,8B,5,NAC,Cirugía,HGAL,9:10 AM,Alta
+70,F,B,Cienfuegos,Cienfuegos,Área III,10A,4,NAC,MI,HGAL,5:30 PM,Alta
+70,F,B,Cienfuegos,Cienfuegos,Área VI,10B,5,Lifrangitis Aguda,MI,HGAL,7:00 AM,Alta
+80,F,B,Cienfuegos,Cienfuegos,Área VI,1A,7,Anemia ,MI,HGAL,6:00 PM,12B
+60,F,B,Cienfuegos,Cienfuegos,Área II,7B,8,NAC,MI,HGAL,9:10 AM,Alta
+70,F,N,Cienfuegos,Cienfuegos,Área III,4B,6,SFA+ Dengue,MI,HGAL,6:10 PM,Alta
+66,F,B,Cienfuegos,Cienfuegos,Área VI,11A,9,Lifrangitis Aguda,MI,HGAL,6:25 AM,Alta
+53,F,B,Cienfuegos,Cienfuegos,Área II,9B,3,HQ Apendicitis,MI,HGAL,5:30 PM,Alta
+85,M,B,Cienfuegos,Cienfuegos,Área III,3B,6,HQ Apendicitis,MI,HGAL,7:00 AM,Alta
+61,F,B,Cienfuegos,Cienfuegos,Área VI,4B,4,HQ Apendicitis,MI,HGAL,7:00 AM,1A
+85,M,B,Cienfuegos,Cienfuegos,Área VI,3A,12,HQ Apendicitis,MI,HGAL,6:25 AM,Alta
+77,F,B,Cienfuegos,Cienfuegos,Área II,5A,3,HQ Apendicitis,MI,HGAL,6:10 PM,Alta
+67,F,B,Cienfuegos,Cienfuegos,Área III,9B,1,SFA+ Dengue,Cirugía,HGAL,6:25 AM,Alta
+66,F,B,Cienfuegos,Cienfuegos,Área VI,11A,4,SFA+ Dengue,Cirugía,HGAL,5:30 PM,Alta
+78,F,B,Cienfuegos,Cienfuegos,Área VI,12B,16,SFA+ Dengue,Cirugía,HGAL,7:00 AM,Alta
+74,F,B,Cienfuegos,Cienfuegos,Área II,12A,8,SFA+ Dengue,Resp,HGAL,6:00 PM,1A
+85,F,B,Cienfuegos,Cienfuegos,Área III,8B,7,SFA+ Dengue,Cirugía,HGAL,9:10 AM,Alta
+73,F,B,Cienfuegos,Cienfuegos,Área VIII,12B,6,SFA+ Dengue,MI,HGAL,9:10 AM,Alta
+64,F,M,Cienfuegos,Cienfuegos,Área VIII,1A,9,SFA+ Dengue,MI,HGAL,6:25 AM,Alta
+81,F,B,Cienfuegos,Cienfuegos,Área VIII,1A,10,SFA+ Dengue,MI,HGAL,6:10 PM,Alta
+51,F,B,Cienfuegos,Cienfuegos,Área VIII,12A,11,SFA+ Dengue,MI,HGAL,5:30 PM,Alta
+43,M,N,Cienfuegos,Cienfuegos,Área VIII,5A,12,HQ Apendicitis,MI,HGAL,7:00 AM,1A
+69,F,M,Cienfuegos,Cienfuegos,Área III,7B,6,Dolor Abdominal,MI,HGAL,6:00 PM,Alta
+65,M,B,Cienfuegos,Cienfuegos,Área III,7B,3,Anemia ,Resp,HGAL,9:10 AM,Alta
+61,F,B,Cienfuegos,Cienfuegos,Área III,8B,5,NAC,Resp,HGAL,11:10 PM,Alta
+6,M,B,Cienfuegos,Cienfuegos,Área IV,10A,4,SFA+ Dengue,Resp,HGAL,7:45 AM,Alta
+88,F,B,Cienfuegos,Cienfuegos,Área V,10B,5,Lifrangitis Aguda,Resp,HGAL,7:45 AM,12B
+57,F,M,Cienfuegos,Cienfuegos,Área VIII,1A,7,HQ Apendicitis,Resp,HGAL,5:30 PM,Alta
+63,F,B,Cienfuegos,Cienfuegos,Área VIII,7B,8,Dolor Abdominal,Resp,HGAL,7:00 AM,Alta
+66,F,B,Cienfuegos,Cienfuegos,Área VIII,4B,6,Anemia ,MI,HGAL,6:00 PM,Alta
+71,F,B,Cienfuegos,Cienfuegos,Área VIII,11A,9,NAC,MI,HGAL,9:10 AM,1A
+91,F,B,Cienfuegos,Cienfuegos,Área VIII,9B,3,SFA+ Dengue,MI,HGAL,11:10 PM,Alta
+71,F,B,Cienfuegos,Cienfuegos,Área III,3B,6,Lifrangitis Aguda,MI,HGAL,7:45 AM,Alta
+53,M,B,Cienfuegos,Cienfuegos,Área III,4B,4,Lifrangitis Aguda,MI,HGAL,7:45 AM,Alta
+54,F,B,Cienfuegos,Cienfuegos,Área III,3A,12,Lifrangitis Aguda,Cirugía,HGAL,6:10 PM,Alta
+90,F,N,Cienfuegos,Cienfuegos,Área IV,5A,3,Lifrangitis Aguda,Cirugía,HGAL,6:25 AM,Alta
+79,F,M,Cienfuegos,Cienfuegos,Área V,9B,8,Lifrangitis Aguda,Cirugía,HGAL,5:30 PM,Alta
+69,F,B,Cienfuegos,Cienfuegos,Área VIII,11A,7,Anemia ,Cirugía,HGAL,7:00 AM,Alta
+95,F,B,Cienfuegos,Cienfuegos,Área VIII,12B,6,NAC,Cirugía,HGAL,7:00 AM,Alta
+75,F,B,Cienfuegos,Cienfuegos,Área VIII,12A,9,SFA+ Dengue,Cirugía,HGAL,6:25 AM,Alta
+43,F,B,Cienfuegos,Cienfuegos,Área VIII,8B,10,Lifrangitis Aguda,Cirugía,HGAL,5:30 PM,Alta
+69,F,B,Cienfuegos,Cienfuegos,Área VIII,12B,11,HQ Apendicitis,Cirugía,HGAL,5:30 PM,Alta
+56,F,B,Cienfuegos,Cienfuegos,Área III,1A,12,Dolor Abdominal,MI,HGAL,7:00 AM,Alta
+57,F,B,Cienfuegos,Cienfuegos,Área III,1A,6,Anemia ,MI,HGAL,6:00 PM,Alta
+87,F,B,Cienfuegos,Cienfuegos,Área VI,12A,3,NAC,MI,HGAL,9:10 AM,Alta
+53,M,B,Cienfuegos,Cienfuegos,Área VI,5A,5,NAC,Cirugía,HGAL,11:10 PM,Alta
+56,F,B,Cienfuegos,Cienfuegos,Área II,7B,4,NAC,Cirugía,HGAL,7:45 AM,Alta
+76,F,N,Cienfuegos,Cienfuegos,Área III,7B,5,NAC,Cirugía,HGAL,7:45 AM,1A
+69,F,M,Cienfuegos,Cienfuegos,Área VI,8B,7,NAC,Cirugía,HGAL,6:10 PM,Alta
+72,F,B,Cienfuegos,Cienfuegos,Área VI,10A,8,NAC,Cirugía,HGAL,6:25 AM,Alta
+77,M,B,Cienfuegos,Cienfuegos,Área II,10B,6,Lifrangitis Aguda,Cirugía,HGAL,5:30 PM,Alta
+37,M,B,Cienfuegos,Cienfuegos,Área III,1A,9,Anemia ,MI,HGAL,7:00 AM,Alta
+74,F,B,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,7B,3,NAC,MI,HGAL,7:00 AM,12B
+74,M,B,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,4B,6,SFA+ Dengue,MI,HGAL,6:25 AM,Alta
+76,F,N,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,11A,4,Lifrangitis Aguda,MI,HGAL,6:10 PM,Alta
+73,M,M,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,9B,12,HQ Apendicitis,MI,HGAL,6:25 AM,Alta
+58,F,N,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,3B,3,HQ Apendicitis,MI,HGAL,5:30 PM,Alta
+70,F,B,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,4B,1,HQ Apendicitis,MI,HGAL,7:00 AM,1A
+79,F,B,Cienfuegos,Cienfuegos,Área VI,3A,4,HQ Apendicitis,Resp,HGAL,6:00 PM,Alta
+74,M,B,Cienfuegos,Cienfuegos,Área VI,5A,16,HQ Apendicitis,Resp,HGAL,9:10 AM,Alta
+28,F,B,Cienfuegos,Cienfuegos,Área II,9B,8,HQ Apendicitis,Resp,HGAL,9:10 AM,Alta
+69,M,B,Cienfuegos,Cienfuegos,Área III,11A,7,Anemia ,MI,HGAL,6:25 AM,Alta
+87,F,N,Cienfuegos,Cienfuegos,Área VI,12B,6,NAC,MI,HGAL,6:10 PM,Alta
+65,F,B,Cienfuegos,Cienfuegos,Área VI,12A,9,Lifrangitis Aguda,MI,HGAL,5:30 PM,Alta
+77,F,B,Cienfuegos,Cienfuegos,Área II,8B,10,Lifrangitis Aguda,MI,HGAL,7:00 AM,Alta
+72,M,B,Cienfuegos,Cienfuegos,Área III,12B,11,Anemia ,MI,HGAL,6:00 PM,Alta
+66,M,B,Cienfuegos,Cienfuegos,Área VI,1A,12,NAC,MI,HGAL,9:10 AM,Alta
+51,F,B,Cienfuegos,Cienfuegos,Área VI,1A,6,SFA+ Dengue,Resp,HGAL,11:10 PM,Alta
+65,F,B,Cienfuegos,Cienfuegos,Área II,12A,3,Lifrangitis Aguda,Resp,HGAL,7:45 AM,Alta
+49,M,B,Cienfuegos,Cienfuegos,Área III,5A,5,HQ Apendicitis,Resp,HGAL,7:45 AM,Alta
+68,F,N,Cruces,Cienfuegos,Cruces,7B,4,Dolor Abdominal,Resp,HGAL,6:00 PM,1A
+66,F,B,Cruces,Cienfuegos,Cruces,7B,5,Anemia ,MI,HGAL,9:10 AM,Alta
+81,M,B,Cruces,Cienfuegos,Cruces,8B,7,NAC,MI,HGAL,11:10 PM,Alta
+38,M,B,Cruces,Cienfuegos,Cruces,10A,8,NAC,MI,HGAL,7:45 AM,Alta
+37,M,B,Cruces,Cienfuegos,Cruces,10B,6,NAC,MI,HGAL,7:45 AM,1A
+71,F,B,Cruces,Cienfuegos,Cruces,1A,9,NAC,MI,HGAL,6:10 PM,Alta
+71,F,B,Cruces,Cienfuegos,Cruces,7B,3,Anemia ,MI,HGAL,6:25 AM,Alta
+45,F,B,Cruces,Cienfuegos,Cruces,4B,6,Anemia ,MI,HGAL,5:30 PM,Alta
+31,F,B,Palmira,Cienfuegos,Palmira,11A,4,Anemia ,MI,HGAL,7:00 AM,Alta
+31,F,B,Rodas,Cienfuegos,Rodas,9B,12,Anemia ,Resp,HGAL,7:00 AM,Alta
+59,M,B,Abreus,Cienfuegos,Abreus,3B,3,Anemia ,Resp,HGAL,6:25 AM,Alta
+48,F,B,Abreus,Cienfuegos,Abreus,4B,1,Anemia ,Resp,HGAL,6:10 PM,Alta
+52,F,B,Abreus,Cienfuegos,Abreus,3A,4,Anemia ,Resp,HGAL,6:25 AM,Alta
+46,F,M,Abreus,Cienfuegos,Abreus,5A,16,Anemia ,Resp,HGAL,5:30 PM,Alta
+72,F,B,Abreus,Cienfuegos,Abreus,9B,8,Anemia ,Resp,HGAL,7:00 AM,Alta
+37,F,B,Abreus,Cienfuegos,Abreus,11A,7,Anemia ,Resp,HGAL,6:00 PM,Alta
+75,M,N,Abreus,Cienfuegos,Abreus,12B,6,Anemia ,Cirugía,HGAL,9:10 AM,Alta
+48,F,M,Abreus,Cienfuegos,Abreus,12A,9,Asma Bronquial,MI,HGAL,9:10 AM,1A
+75,F,B,Abreus,Cienfuegos,Abreus,8B,10,SDB (1B),MI,HGAL,6:25 AM,Alta
+75,M,B,Abreus,Cienfuegos,Abreus,12B,11,HQ Apendicitis,MI,HGAL,6:10 PM,Alta
+62,F,B,Abreus,Cienfuegos,Abreus,1A,12,Dolor Abdominal,MI,HGAL,5:30 PM,Alta
+59,M,B,Abreus,Cienfuegos,Abreus,1A,6,Anemia ,MI,HGAL,7:00 AM,Alta
+65,M,M,Abreus,Cienfuegos,Abreus,12A,3,NAC,MI,HGAL,6:00 PM,12B
+67,F,B,Abreus,Cienfuegos,Abreus,5A,5,SFA+ Dengue,MI,HGAL,9:10 AM,Alta
+93,F,B,Abreus,Cienfuegos,Abreus,7B,4,Lifrangitis Aguda,MI,HGAL,11:10 PM,Alta
+84,F,B,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,7B,5,HQ Apendicitis,MI,HGAL,7:45 AM,Alta
+66,F,B,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,8B,7,Dolor Abdominal,MI,HGAL,7:45 AM,Alta
+74,F,B,Cumanayagua,Cienfuegos,Cumanayagua,10A,8,Anemia ,MI,HGAL,9:10 AM,Alta
+73,F,B,Cumanayagua,Cienfuegos,Cumanayagua,10B,6,NAC,MI,HGAL,6:25 AM,12B
+69,M,B,Cumanayagua,Cienfuegos,Cumanayagua,1A,9,SFA+ Dengue,MI,HGAL,6:10 PM,Alta
+50,F,N,Cumanayagua,Cienfuegos,Cumanayagua,7B,3,Lifrangitis Aguda,MI,HGAL,5:30 PM,Alta
+86,F,M,Cumanayagua,Cienfuegos,Cumanayagua,4B,6,Lifrangitis Aguda,MI,HGAL,7:00 AM,Alta
+86,M,B,Cumanayagua,Cienfuegos,Cumanayagua,11A,4,Lifrangitis Aguda,MI,HGAL,6:00 PM,Alta
+62,M,B,Cumanayagua,Cienfuegos,Cumanayagua,9B,12,Lifrangitis Aguda,MI,HGAL,9:10 AM,12B
+41,M,B,Cumanayagua,Cienfuegos,Cumanayagua,3B,3,Lifrangitis Aguda,MI,HGAL,11:10 PM,Alta
+60,F,B,Cumanayagua,Cienfuegos,Cumanayagua,4B,1,Anemia ,Cirugía,HGAL,7:45 AM,Alta
+89,F,M,Cumanayagua,Cienfuegos,Cumanayagua,3A,4,NAC,Cirugía,HGAL,7:45 AM,Alta
+67,F,N,Cienfuegos,Cienfuegos,Área IV,5A,16,SFA+ Dengue,Cirugía,HGAL,5:30 PM,1A
+81,M,M,Cienfuegos,Cienfuegos,Área V,9B,8,HQ Apendicitis,Resp,HGAL,7:00 AM,Alta
+49,F,N,Cienfuegos,Cienfuegos,Área VIII,11A,7,HQ Apendicitis,MI,HGAL,6:00 PM,Alta
+63,F,B,Cienfuegos,Cienfuegos,Área VIII,12B,6,HQ Apendicitis,MI,HGAL,9:10 AM,Alta
+78,M,B,Cienfuegos,Cienfuegos,Área VIII,12A,9,HQ Apendicitis,MI,HGAL,11:10 PM,Alta
+61,F,B,Cienfuegos,Cienfuegos,Área VIII,8B,10,SFA+ Dengue,MI,HGAL,7:45 AM,Alta
+86,F,B,Cienfuegos,Cienfuegos,Área VIII,12B,11,SFA+ Dengue,MI,HGAL,7:45 AM,1A
+29,F,B,Cienfuegos,Cienfuegos,Área III,1A,12,SFA+ Dengue,MI,HGAL,6:10 PM,Alta
+70,F,B,Cienfuegos,Cienfuegos,Área III,1A,6,SFA+ Dengue,MI,HGAL,6:25 AM,Alta
+95,F,N,Cienfuegos,Cienfuegos,Área VI,12A,3,SFA+ Dengue,MI,HGAL,5:30 PM,Alta
+80,F,M,Cienfuegos,Cienfuegos,Área VI,5A,5,SFA+ Dengue,Cirugía,HGAL,7:00 AM,Alta
+79,F,N,Cienfuegos,Cienfuegos,Área II,7B,4,SFA+ Dengue,Cirugía,HGAL,7:00 AM,Alta
+74,F,N,Cienfuegos,Cienfuegos,Área III,7B,5,SFA+ Dengue,Cirugía,HGAL,6:25 AM,1A
+61,M,B,Cienfuegos,Cienfuegos,Área VI,8B,7,SFA+ Dengue,Cirugía,HGAL,6:10 PM,Alta
+43,M,B,Cienfuegos,Cienfuegos,Área VI,10A,8,HQ Apendicitis,Resp,HGAL,6:25 AM,Alta
+63,M,B,Cienfuegos,Cienfuegos,Área II,10B,6,Dolor Abdominal,Resp,HGAL,5:30 PM,Alta
+75,F,M,Cienfuegos,Cienfuegos,Área III,1A,9,Anemia ,Resp,HGAL,7:00 AM,Alta
+60,M,B,Cienfuegos,Cienfuegos,Área III,7B,3,NAC,Resp,HGAL,6:00 PM,12B
+64,M,B,Cienfuegos,Cienfuegos,Área III,4B,6,SFA+ Dengue,Resp,HGAL,9:10 AM,Alta
+83,F,B,Cienfuegos,Cienfuegos,Área VI,11A,4,Lifrangitis Aguda,Resp,HGAL,9:10 AM,Alta
+66,M,B,Cienfuegos,Cienfuegos,Área VI,9B,12,HQ Apendicitis,Cirugía,HGAL,6:25 AM,Alta
+54,F,B,Cienfuegos,Cienfuegos,Área II,3B,3,Dolor Abdominal,MI,HGAL,6:10 PM,1A
+91,F,B,Cienfuegos,Cienfuegos,Área III,4B,1,Anemia ,MI,HGAL,5:30 PM,Alta
+78,M,B,Cienfuegos,Cienfuegos,Área VI,3A,4,NAC,MI,HGAL,7:00 AM,Alta
+65,M,B,Cienfuegos,Cienfuegos,Área VI,5A,16,SFA+ Dengue,MI,HGAL,6:00 PM,Alta
+58,F,M,Cienfuegos,Cienfuegos,Área II,9B,8,Lifrangitis Aguda,MI,HGAL,9:10 AM,Alta
+70,F,B,Cienfuegos,Cienfuegos,Área III,11A,7,Lifrangitis Aguda,Cirugía,HGAL,11:10 PM,Alta
+52,F,B,Cienfuegos,Cienfuegos,Área III,12B,6,Lifrangitis Aguda,Cirugía,HGAL,7:45 AM,Alta
+63,F,B,Cienfuegos,Cienfuegos,Área III,12A,9,Lifrangitis Aguda,Cirugía,HGAL,7:45 AM,Alta
+66,F,N,Cienfuegos,Cienfuegos,Área VI,8B,10,Lifrangitis Aguda,Resp,HGAL,6:10 PM,Alta
+34,M,M ,Cienfuegos,Cienfuegos,Área VI,12B,11,Anemia ,Cirugía,HGAL,6:25 AM,Alta
+31,F,B,Cienfuegos,Cienfuegos,Área II,1A,12,NAC,MI,HGAL,5:30 PM,Alta
+54,F,B,Cienfuegos,Cienfuegos,Área III,1A,6,SFA+ Dengue,MI,HGAL,7:00 AM,Alta
+51,M,N,Cienfuegos,Cienfuegos,Área VI,12A,3,Lifrangitis Aguda,MI,HGAL,7:00 AM,Alta
+52,M,N,Cienfuegos,Cienfuegos,Área VI,5A,5,HQ Apendicitis,MI,HGAL,6:25 AM,Alta
+47,F,M,Cienfuegos,Cienfuegos,Área III,7B,4,Dolor Abdominal,MI,HGAL,6:10 PM,Alta
+51,M,M,Cienfuegos,Cienfuegos,Área VI,7B,5,Anemia ,MI,HGAL,6:25 AM,Alta
+54,F,B,Cienfuegos,Cienfuegos,Área VI,8B,7,NAC,Cirugía,HGAL,5:30 PM,Alta
+55,F,B,Cienfuegos,Cienfuegos,Área II,10A,8,NAC,Cirugía,HGAL,7:00 AM,1A
+51,M,B,Cienfuegos,Cienfuegos,Área III,10B,6,NAC,Cirugía,HGAL,6:00 PM,Alta
+65,F,B,Cienfuegos,Cienfuegos,Área VI,1A,9,NAC,Cirugía,HGAL,9:10 AM,Alta
+44,F,M,Cienfuegos,Cienfuegos,Área VI,7B,3,NAC,Cirugía,HGAL,9:10 AM,Alta
+28,F,N,Cienfuegos,Cienfuegos,Área II,4B,6,NAC,Cirugía,HGAL,6:25 AM,Alta
+28,M,M,Cienfuegos,Cienfuegos,Área III,11A,4,Lifrangitis Aguda,Resp,HGAL,6:10 PM,Alta
+68,M,N,Cienfuegos,Cienfuegos,Área III,9B,12,Anemia ,Resp,HGAL,5:30 PM,Alta
+71,F,B,Cienfuegos,Cienfuegos,Área III,3B,3,NAC,Resp,HGAL,7:00 AM,Alta
+51,M,B,Cienfuegos,Cienfuegos,Área VI,4B,1,SFA+ Dengue,Resp,HGAL,6:00 PM,1A
+52,F,B,Cienfuegos,Cienfuegos,Área VI,3A,4,Lifrangitis Aguda,MI,HGAL,9:10 AM,Alta
+55,M,B,Cienfuegos,Cienfuegos,Área II,5A,16,HQ Apendicitis,MI,HGAL,11:10 PM,Alta
+28,F,B,Cienfuegos,Cienfuegos,Área III,9B,8,HQ Apendicitis,MI,HGAL,7:45 AM,Alta
+44,F,B,Cienfuegos,Cienfuegos,Área VI,11A,7,Anemia ,MI,HGAL,7:45 AM,Alta
+67,M,N,Cienfuegos,Cienfuegos,Área VI,12B,6,Anemia ,MI,HGAL,6:00 PM,Alta
+82,M,M,Cienfuegos,Cienfuegos,Área II,12A,9,Anemia ,Cirugía,HGAL,6:00 PM,Alta
+52,F,N,Cienfuegos,Cienfuegos,Área III,8B,10,Anemia ,Cirugía,HGAL,9:10 AM,Alta
+81,F,N,Cienfuegos,Cienfuegos,Área II,12B,11,Anemia ,Cirugía,HGAL,11:10 PM,Alta
+59,F,B,Cienfuegos,Cienfuegos,Área III,1A,12,Anemia ,Cirugía,HGAL,7:45 AM,Alta
+75,F,B,Cienfuegos,Cienfuegos,Área II,1A,6,Anemia ,Cirugía,HGAL,7:45 AM,Alta
+73,M,B,Cienfuegos,Cienfuegos,Área III,12A,3,Anemia ,Cirugía,HGAL,6:10 PM,Alta
+35,F,M,Cienfuegos,Cienfuegos,Área II,5A,5,Anemia ,Cirugía,HGAL,6:25 AM,Alta
+67,F,B,Cienfuegos,Cienfuegos,Área III,7B,4,Anemia ,Cirugía,HGAL,5:30 PM,1A
+83,M,B,Cienfuegos,Cienfuegos,Área II,7B,5,Anemia ,MI,HGAL,7:00 AM,Alta
+52,F,B,Cruces,Cienfuegos,Cruces,8B,7,Asma Bronquial,MI,HGAL,7:00 AM,Alta
+79,M,B,Palmira,Cienfuegos,Palmira,10A,8,Asma Bronquial,MI,HGAL,6:25 AM,Alta
+64,M,B,Palmira,Cienfuegos,Palmira,10B,6,Asma Bronquial,Cirugía,HGAL,6:10 PM,Alta
+56,F,B,Palmira,Cienfuegos,Palmira,1A,9,Asma Bronquial,MI,HGAL,6:25 AM,12B
+50,F,B,Palmira,Cienfuegos,Palmira,7B,3,Asma Bronquial,MI,HGAL,5:30 PM,Alta
+73,F,B,Palmira,Cienfuegos,Palmira,4B,6,Asma Bronquial,MI,HGAL,7:00 AM,Alta
+71,M,M,Palmira,Cienfuegos,Palmira,11A,4,Asma Bronquial,MI,HGAL,6:00 PM,Alta
+81,F,B,Palmira,Cienfuegos,Palmira,9B,12,Asma Bronquial,MI,HGAL,9:10 AM,Alta
+65,F,B,Abreus,Cienfuegos,Abreus,3B,3,Asma Bronquial,MI,HGAL,9:10 AM,1A
+53,F,B,Abreus,Cienfuegos,Abreus,4B,1,Asma Bronquial,MI,HGAL,6:25 AM,Alta
+66,F,N,Abreus,Cienfuegos,Abreus,3A,4,Asma Bronquial,MI,HGAL,6:10 PM,Alta
+54,F,B,Abreus,Cienfuegos,Abreus,5A,16,Asma Bronquial,Cirugía,HGAL,5:30 PM,Alta
+69,F,B,Abreus,Cienfuegos,Abreus,9B,8,Asma Bronquial,Cirugía,HGAL,7:00 AM,Alta
+55,M,B,Cienfuegos,Cienfuegos,Área II,11A,7,Asma Bronquial,Cirugía,HGAL,6:00 PM,12B
+72,F,B,Cienfuegos,Cienfuegos,Área III,12B,6,Asma Bronquial,Cirugía,HGAL,9:10 AM,Alta
+67,F,B,Cienfuegos,Cienfuegos,Área II,12A,9,Asma Bronquial,Cirugía,HGAL,11:10 PM,Alta
+57,F,N,Cienfuegos,Cienfuegos,Área III,8B,10,Asma Bronquial,Resp,HGAL,7:45 AM,Alta
+56,F,M,Cienfuegos,Cienfuegos,Área II,12B,11,Asma Bronquial,Resp,HGAL,7:45 AM,Alta
+73,F,M,Cienfuegos,Cienfuegos,Área III,1A,12,Asma Bronquial,Resp,HGAL,,12B
+56,F,N,Cienfuegos,Cienfuegos,Área II,1A,6,Asma Bronquial,Resp,HGAL,,Alta
+79,F,N,Cienfuegos,Cienfuegos,Área III,12A,3,Asma Bronquial,MI,HGAL,,Alta
+54,F,B,Cienfuegos,Cienfuegos,Área II,5A,5,Asma Bronquial,MI,HGAL,,Alta
+52,M,B,Cienfuegos,Cienfuegos,Área VI,7B,4,Asma Bronquial,MI,HGAL,,1A
+86,F,B,Cienfuegos,Cienfuegos,Área II,7B,5,Asma Bronquial,MI,HGAL,,Alta
+75,M,B,Cienfuegos,Cienfuegos,Área III,8B,7,Asma Bronquial,MI,HGAL,,Alta
+57,F,B,Cienfuegos,Cienfuegos,Área III,10A,8,Asma Bronquial,Cirugía,HGAL,,Alta
+80,M,N,Cienfuegos,Cienfuegos,Área III,10B,6,Asma Bronquial,Cirugía,HGAL,,Alta
+60,F,M,Cienfuegos,Cienfuegos,Área VI,1A,9,Asma Bronquial,Cirugía,HGAL,,Alta
+80,M,N,Cienfuegos,Cienfuegos,Área VI,7B,3,Anemia ,Cirugía,HGAL,,1A
+64,F,B,Cienfuegos,Cienfuegos,Área II,4B,6,NAC,Cirugía,HGAL,,Alta
+83,M,B,Cienfuegos,Cienfuegos,Área III,11A,4,SFA+ Dengue,Cirugía,HGAL,,Alta
+70,F,B,Cienfuegos,Cienfuegos,Área VI,9B,12,Lifrangitis Aguda,Cirugía,HGAL,,Alta
+74,F,B,Cienfuegos,Cienfuegos,Área VI,3B,3,Lifrangitis Aguda,Cirugía,HGAL,,Alta
+78,F,M,Cienfuegos,Cienfuegos,Área III,4B,1,Lifrangitis Aguda,MI,HGAL,,Alta
+63,F,N,Cienfuegos,Cienfuegos,Área VI,3A,4,Lifrangitis Aguda,MI,HGAL,,1A
+61,F,M,Cruces,Cienfuegos,Área VI,5A,16,Lifrangitis Aguda,MI,HGAL,5:30 PM,Alta
+78,F,N,Cruces,Cienfuegos,Área II,9B,8,Anemia ,Cirugía,HGAL,7:00 AM,Alta
+63,F,B,Cruces,Cienfuegos,Área III,11A,7,NAC,MI,HGAL,6:00 PM,Alta
+69,M,B,Abreus,Cienfuegos,Área VI,12B,6,SFA+ Dengue,MI,HGAL,9:10 AM,Alta
+70,F,B,Cruces,Cienfuegos,Área VI,12A,9,HQ Apendicitis,MI,HGAL,11:10 PM,12B
+71,F,B,Cruces,Cienfuegos,Área II,8B,10,HQ Apendicitis,MI,HGAL,7:45 AM,Alta
+80,F,B,Cruces,Cienfuegos,Área III,12B,11,HQ Apendicitis,MI,HGAL,7:45 AM,Alta
+76,F,B,Cruces,Cienfuegos,Cruces,1A,12,HQ Apendicitis,MI,HGAL,6:10 PM,Alta
+62,F,N,Lajas,Cienfuegos,Lajas,1A,6,SFA+ Dengue,MI,HGAL,6:25 AM,1A
+72,M,M,Lajas,Cienfuegos,Lajas,12A,3,SFA+ Dengue,MI,HGAL,5:30 PM,Alta
+70,M,N,Lajas,Cienfuegos,Lajas,5A,5,SFA+ Dengue,MI,HGAL,7:00 AM,Alta
+56,F,N,Lajas,Cienfuegos,Lajas,7B,4,SFA+ Dengue,MI,HGAL,7:00 AM,Alta
+44,M,B,Lajas,Cienfuegos,Lajas,7B,5,SFA+ Dengue,Resp,HGAL,6:25 AM,Alta
+46,M,B,Lajas,Cienfuegos,Lajas,8B,7,SFA+ Dengue,Resp,HGAL,6:10 PM,Alta
+75,F,B,Cumanayagua,Cienfuegos,Cumanayagua,10A,8,SFA+ Dengue,Resp,HGAL,6:25 AM,Alta
+68,F,M,Cienfuegos,Cienfuegos,Área VI,10B,6,SFA+ Dengue,Resp,HGAL,5:30 PM,Alta
+59,F,B,Cienfuegos,Cienfuegos,Área II,1A,9,SFA+ Dengue,Resp,HGAL,7:00 AM,Alta
+83,F,B,Lajas,Cienfuegos,Lajas,7B,3,HQ Apendicitis,Resp,HGAL,6:00 PM,Alta
+69,F,B,Lajas,Cienfuegos,Lajas,4B,6,Dolor Abdominal,Resp,HGAL,9:10 AM,Alta
+73,M,B,Lajas,Cienfuegos,Lajas,11A,1,Anemia ,Cirugía,HGAL,9:10 AM,Alta
+56,F,B,Lajas,Cienfuegos,Lajas,9B,4,NAC,MI,HGAL,6:25 AM,Alta
+66,M,B,Lajas,Cienfuegos,Lajas,3B,16,SFA+ Dengue,MI,HGAL,6:10 PM,Alta
+68,F,B,Lajas,Cienfuegos,Lajas,4B,8,Lifrangitis Aguda,MI,HGAL,5:30 PM,Alta
+51,M,B,Lajas,Cienfuegos,Lajas,3A,7,HQ Apendicitis,MI,HGAL,7:00 AM,Alta
+45,F,M,Lajas,Cienfuegos,Lajas,5A,6,Dolor Abdominal,MI,HGAL,6:00 PM,Alta
+65,F,B,Lajas,Cienfuegos,Lajas,9B,9,Anemia ,MI,HGAL,9:10 AM,1A
+51,F,B,Lajas,Cienfuegos,Lajas,11A,10,NAC,MI,HGAL,11:10 PM,Alta
+64,F,B,Lajas,Cienfuegos,Lajas,12B,11,SFA+ Dengue,MI,HGAL,7:45 AM,Alta
+74,M,N,Lajas,Cienfuegos,Lajas,12A,12,Lifrangitis Aguda,MI,HGAL,7:45 AM,Alta
+71,M,B,Lajas,Cienfuegos,Lajas,8B,6,Anemia ,MI,HGAL,,Alta
+61,F,B,Lajas,Cienfuegos,Lajas,12B,3,NAC,MI,HGAL,,12B
+58,M,B,Cienfuegos,Cienfuegos,Área VI,1A,5,SFA+ Dengue,MI,HGAL,,Alta
+59,F,B,Cienfuegos,Cienfuegos,Área II,1A,4,Lifrangitis Aguda,MI,HGAL,,Alta
+54,M,B,Cienfuegos,Cienfuegos,Área VI,12A,5,HQ Apendicitis,MI,HGAL,,Alta
+87,M,N,Abreus,Cienfuegos,Abreus,5A,7,Dolor Abdominal,MI,HGAL,,1A
+48,F,M,Abreus,Cienfuegos,Abreus,7B,8,Anemia ,MI,HGAL,,1A
+67,F,M,Abreus,Cienfuegos,Abreus,7B,6,NAC,MI,HGAL,,1A
+78,M,N,Aguada de Pasajeros,Cienfuegos,Aguada de Pasajeros,8B,9,NAC,MI,HGAL,,1A
+74,M,N,Lajas,Cienfuegos,Lajas,10A,3,NAC,Cirugía,HGAL,,1A
+58,F,B,Lajas,Cienfuegos,Lajas,10B,6,NAC,Cirugía,HGAL,,Alta
+52,M,B,Lajas,Cienfuegos,Lajas,1A,4,NAC,Cirugía,HGAL,,Alta
+52,F,B,Cienfuegos,Cienfuegos,Área II,7B,12,NAC,Resp,HGAL,,Alta
+40,M,B,Cienfuegos,Cienfuegos,Área VI,4B,3,Lifrangitis Aguda,MI,HGAL,,1A
+62,M,B,Cienfuegos,Cienfuegos,Área II,11A,1,Anemia ,MI,HGAL,,Alta
+62,F,N,Cruces,Cienfuegos,Cruces,9B,4,NAC,MI,HGAL,,Alta
+77,F,B,Cruces,Cienfuegos,Cruces,3B,16,SFA+ Dengue,MI,HGAL,,Alta
+53,F,B,Cruces,Cienfuegos,Cruces,4B,8,Anemia ,MI,HGAL,,Alta
+63,M,B,Cruces,Cienfuegos,Cruces,3A,7,Anemia ,MI,HGAL,,Alta
+29,M,B,Plamira,Cienfuegos,Plamira,5A,6,Anemia ,MI,HGAL,,Alta
+78,F,N,Cruces,Cienfuegos,Cruces,9B,9,Anemia ,MI,HGAL,,Alta
+84,F,B,Cruces,Cienfuegos,Cruces,11A,10,Anemia ,Cirugía,HGAL,,Alta
+79,F,B,Plamira,Cienfuegos,Plamira,12B,11,Anemia ,Cirugía,HGAL,,Alta
+52,F,B,Plamira,Cienfuegos,Plamira,12A,12,Asma Bronquial,Cirugía,HGAL,,Alta
+86,M,B,Plamira,Cienfuegos,Plamira,8B,6,Asma Bronquial,Cirugía,HGAL,,Alta
+66,F,B,Plamira,Cienfuegos,Plamira,12B,3,Asma Bronquial,Resp,HGAL,,Alta
+59,M,B,Plamira,Cienfuegos,Plamira,1A,5,Asma Bronquial,Resp,HGAL,,1A
+64,F,B,Cumanayagua,Cienfuegos,Cumanayagua,1A,4,Asma Bronquial,Resp,HGAL,,Alta
+56,F,N,Cienfuegos,Cienfuegos,Área VI,12A,5,Asma Bronquial,Resp,HGAL,,Alta
+73,F,B,Cienfuegos,Cienfuegos,Área II,5A,7,Asma Bronquial,Resp,HGAL,,Alta
+57,M,B,Cienfuegos,Cienfuegos,Área III,7B,8,Asma Bronquial,Resp,HGAL,,Alta
+84,F,B,Cienfuegos,Cienfuegos,Área III,7B,6,Lifrangitis Aguda,Cirugía,HGAL,,12B
+71,F,B,Cienfuegos,Cienfuegos,Área III,8B,9,Lifrangitis Aguda,MI,HGAL,,Alta
+54,M,B,Cienfuegos,Cienfuegos,Área VI,10A,3,Anemia ,MI,HGAL,5:30 PM,Alta
+52,M,B,Cienfuegos,Cienfuegos,Área VI,10B,6,NAC,MI,HGAL,7:00 AM,Alta
+54,F,B,Cienfuegos,Cienfuegos,Área II,1A,4,SFA+ Dengue,MI,HGAL,6:00 PM,Alta
+61,M,B,Cienfuegos,Cienfuegos,Área III,7B,12,Lifrangitis Aguda,MI,HGAL,9:10 AM,Alta
+71,F,B,Cienfuegos,Cienfuegos,Área VI,4B,3,HQ Apendicitis,Cirugía,HGAL,11:10 PM,1A
+65,F,B,Cienfuegos,Cienfuegos,Área VI,11A,1,Dolor Abdominal,Cirugía,HGAL,7:45 AM,Alta
+46,F,B,Cienfuegos,Cienfuegos,Área III,9B,4,Anemia ,Cirugía,HGAL,7:45 AM,Alta
+60,F,B,Cienfuegos,Cienfuegos,Área VI,3B,16,NAC,Resp,HGAL,6:10 PM,Alta
+67,F,M,Cienfuegos,Cienfuegos,Área VI,4B,8,NAC,Cirugía,HGAL,6:25 AM,Alta
+56,F,B,Cienfuegos,Cienfuegos,Área II,3A,7,NAC,MI,HGAL,5:30 PM,Alta
+49,F,B,Cienfuegos,Cienfuegos,Área III,5A,6,NAC,MI,HGAL,7:00 AM,Alta
+78,F,N,Cienfuegos,Cienfuegos,Área VI,9B,9,NAC,MI,HGAL,7:00 AM,Alta
+75,F,M,Cienfuegos,Cienfuegos,Área VI,11A,10,NAC,MI,HGAL,6:25 AM,Alta
+75,F,B,Cienfuegos,Cienfuegos,Área II,12B,11,Lifrangitis Aguda,MI,HGAL,6:10 PM,Alta
+55,F,B,Cienfuegos,Cienfuegos,Área III,12A,12,Anemia ,MI,HGAL,6:25 AM,Alta
+54,F,B,Cienfuegos,Cienfuegos,Área VIII,8B,6,NAC,Cirugía,HGAL,5:30 PM,Alta
+69,F,B,Cienfuegos,Cienfuegos,Área VIII,12B,3,SFA+ Dengue,Cirugía,HGAL,7:00 AM,Alta
+75,F,M,Cienfuegos,Cienfuegos,Área III,1A,5,Lifrangitis Aguda,Cirugía,HGAL,6:00 PM,1A
+72,M,B,Cienfuegos,Cienfuegos,Área III,1A,4,HQ Apendicitis,Cirugía,HGAL,9:10 AM,Alta
+71,F,B,Cienfuegos,Cienfuegos,Área VI,12A,5,HQ Apendicitis,Cirugía,HGAL,9:10 AM,Alta
+52,F,B,Cienfuegos,Cienfuegos,Área VI,1A,7,Anemia ,Cirugía,HGAL,6:25 AM,Alta
+57,F,B,Cienfuegos,Cienfuegos,Área II,7B,8,Anemia ,Resp,HGAL,6:10 PM,Alta
+74,M,B,Cienfuegos,Cienfuegos,Área III,4B,6,Anemia ,Resp,HGAL,5:30 PM,12B
+50,F,B,Cienfuegos,Cienfuegos,Área VI,11A,9,Anemia ,Resp,HGAL,7:00 AM,Alta
+35,F,B,Cienfuegos,Cienfuegos,Área VIII,9B,3,Anemia ,Resp,HGAL,6:00 PM,Alta
+67,F,N,Cienfuegos,Cienfuegos,Área VIII,3B,6,Anemia ,MI,HGAL,9:10 AM,Alta
+74,F,M,Cienfuegos,Cienfuegos,Área III,4B,4,Asma Bronquial,MI,HGAL,5:30 PM,Alta
+19,M,B,Cienfuegos,Cienfuegos,Área III,3A,12,Asma Bronquial,MI,HGAL,7:00 AM,1A
+71,F,B,Cienfuegos,Cienfuegos,Área VI,5A,3,Asma Bronquial,MI,HGAL,6:00 PM,Alta
+80,M,B,Cienfuegos,Cienfuegos,Área VI,9B,1,Asma Bronquial,MI,HGAL,9:10 AM,Alta
+54,M,B,Cienfuegos,Cienfuegos,Área II,11A,4,Asma Bronquial,Cirugía,HGAL,11:10 PM,Alta
+68,F,B,Cienfuegos,Cienfuegos,Área III,12B,16,Asma Bronquial,Cirugía,HGAL,7:45 AM,Alta
+47,M,B,Cienfuegos,Cienfuegos,Área VI,12A,8,Asma Bronquial,Cirugía,HGAL,7:45 AM,12B
+79,F,B,Cienfuegos,Cienfuegos,Área VIII,8B,7,Asma Bronquial,Cirugía,HGAL,6:10 PM,Alta
+67,F,B,Cienfuegos,Cienfuegos,Área VI,12B,6,Asma Bronquial,Cirugía,HGAL,6:25 AM,Alta
+83,F,B,Cienfuegos,Cienfuegos,Área VI,1A,9,Asma Bronquial,Cirugía,HGAL,5:30 PM,Alta
+45,F,B,Cienfuegos,Cienfuegos,Área II,1A,10,Asma Bronquial,Cirugía,HGAL,7:00 AM,Alta
+69,F,N,Cienfuegos,Cienfuegos,Área III,12A,11,Asma Bronquial,Cirugía,HGAL,7:00 AM,Alta
+69,F,M,Cienfuegos,Cienfuegos,Área VI,5A,12,Asma Bronquial,MI,HGAL,6:25 AM,Alta
+72,M,B,Cienfuegos,Cienfuegos,Área VIII,7B,6,Asma Bronquial,MI,HGAL,6:10 PM,Alta
+63,F,B,Cienfuegos,Cienfuegos,Área VIII,7B,3,Asma Bronquial,MI,HGAL,6:25 AM,Alta
+67,M,B,Cienfuegos,Cienfuegos,Área III,8B,5,Asma Bronquial,Cirugía,HGAL,5:30 PM,Alta
+72,M,B,Cienfuegos,Cienfuegos,Área III,10A,4,Asma Bronquial,MI,HGAL,7:00 AM,Alta
+64,M,B,Cienfuegos,Cienfuegos,Área VI,10B,5,Asma Bronquial,MI,HGAL,6:00 PM,Alta
+72,F,N,Cienfuegos,Cienfuegos,Área I,1A,7,Anemia ,MI,HGAL,9:10 AM,Alta
+68,F,M,Cienfuegos,Cienfuegos,Área II,7B,8,NAC,MI,HGAL,9:10 AM,Alta
+62,M,N,Cienfuegos,Cienfuegos,Área III,4B,6,SFA+ Dengue,MI,HGAL,6:25 AM,Alta
+69,M,B,Cienfuegos,Cienfuegos,Área IV,11A,9,Lifrangitis Aguda,MI,HGAL,6:10 PM,Alta
+78,M,B,Cienfuegos,Cienfuegos,Área V,9B,3,Lifrangitis Aguda,MI,HGAL,5:30 PM,Alta
+62,M,B,Cienfuegos,Cienfuegos,Área VI,3B,6,Lifrangitis Aguda,MI,HGAL,5:30 PM,Alta
+78,F,B,Cienfuegos,Cienfuegos,Área VII,4B,4,Lifrangitis Aguda,Cirugía,HGAL,7:00 AM,Alta
+70,F,B,Cienfuegos,Cienfuegos,Área I,3A,12,SFA+ Dengue,Cirugía,HGAL,6:00 PM,Alta
+71,F,N,Cienfuegos,Cienfuegos,Área II,5A,3,SFA+ Dengue,Cirugía,HGAL,9:10 AM,Alta
+73,F,B,Cienfuegos,Cienfuegos,Área III,9B,1,SFA+ Dengue,Cirugía,HGAL,11:10 PM,Alta
+78,M,B,Cienfuegos,Cienfuegos,Área IV,11A,4,SFA+ Dengue,Cirugía,HGAL,7:45 AM,1A
+74,M,B,Cienfuegos,Cienfuegos,Área V,12B,16,SFA+ Dengue,Resp,HGAL,7:45 AM,Alta
+67,M,B,Cruces,Cienfuegos,Cruces,12A,8,SFA+ Dengue,Resp,HGAL,6:10 PM,Alta
+58,F,B,Palmira,Cienfuegos,Palmira,8B,7,SFA+ Dengue,Resp,HGAL,6:25 AM,Alta
+60,M,B,Palmira,Cienfuegos,Palmira,12B,6,SFA+ Dengue,Resp,HGAL,5:30 PM,Alta
+52,F,B,Palmira,Cienfuegos,Palmira,1A,9,SFA+ Dengue,MI,HGAL,7:00 AM,12B
+76,M,N,Palmira,Cienfuegos,Palmira,1A,10,HQ Apendicitis,MI,HGAL,7:00 AM,Alta
+72,F,B,Palmira,Cienfuegos,Palmira,12A,11,NAC,MI,HGAL,6:25 AM,Alta
+79,F,B,Palmira,Cienfuegos,Palmira,5A,12,SFA+ Dengue,MI,HGAL,6:10 PM,Alta
+53,F,B,Palmira,Cienfuegos,Palmira,7B,6,Lifrangitis Aguda,MI,HGAL,6:25 AM,1A
+68,F,B,Abreus,Cienfuegos,Abreus,7B,3,Anemia ,Cirugía,HGAL,5:30 PM,Alta
+68,F,B,Abreus,Cienfuegos,Abreus,8B,5,NAC,Cirugía,HGAL,7:00 AM,Alta
+86,F,B,Abreus,Cienfuegos,Abreus,10A,4,SFA+ Dengue,Cirugía,HGAL,6:00 PM,Alta
+28,F,B,Abreus,Cienfuegos,Abreus,10B,5,Lifrangitis Aguda,Cirugía,HGAL,9:10 AM,1A
+47,F,B,Abreus,Cienfuegos,Abreus,1A,7,HQ Apendicitis,Cirugía,HGAL,9:10 AM,Alta
+89,F,B,Cienfuegos,Cienfuegos,Área I,7B,8,Dolor Abdominal,Cirugía,HGAL,6:25 AM,Alta
+64,M,B,Cienfuegos,Cienfuegos,Área II,4B,6,Anemia ,Cirugía,HGAL,6:10 PM,Alta
+42,F,B,Cienfuegos,Cienfuegos,Área III,11A,9,Lifrangitis Aguda,Cirugía,HGAL,5:30 PM,Alta
+72,F,B,Cienfuegos,Cienfuegos,Área IV,9B,3,Lifrangitis Aguda,Resp,HGAL,7:00 AM,12B
+70,F,M,Cienfuegos,Cienfuegos,Área V,3B,6,Anemia ,Resp,HGAL,6:00 PM,Alta
+59,F,B,Cienfuegos,Cienfuegos,Área VI,4B,4,NAC,Resp,HGAL,9:10 AM,Alta
+47,F,B,Cienfuegos,Cienfuegos,Área VII,3A,12,SFA+ Dengue,Resp,HGAL,11:10 PM,Alta
+68,F,N,Cienfuegos,Cienfuegos,Área I,5A,3,Lifrangitis Aguda,MI,HGAL,7:45 AM,1A
+80,F,M,Cienfuegos,Cienfuegos,Área II,9B,1,HQ Apendicitis,MI,HGAL,7:45 AM,Alta
+68,F,B,Cienfuegos,Cienfuegos,Área III,11A,4,Dolor Abdominal,MI,HGAL,6:10 PM,Alta
+66,M,B,Cienfuegos,Cienfuegos,Área IV,12B,16,Anemia ,MI,HGAL,6:25 AM,Alta
+53,F,B,Cienfuegos,Cienfuegos,Área V,12A,8,NAC,MI,HGAL,5:30 PM,Alta
+48,M,B,Cienfuegos,Cienfuegos,Área II,8B,7,NAC,Cirugía,HGAL,7:00 AM,Alta
+83,F,M,Cienfuegos,Cienfuegos,Área III,12B,6,NAC,Cirugía,HGAL,6:00 PM,1A
+58,F,B,Cienfuegos,Cienfuegos,Área IV,1A,9,NAC,Cirugía,HGAL,9:10 AM,Alta
+60,F,B,Cienfuegos,Cienfuegos,Área V,1A,10,NAC,Cirugía,HGAL,5:30 PM,Alta
+75,F,B,Cienfuegos,Cienfuegos,Área VI,12A,11,NAC,Cirugía,HGAL,7:00 AM,Alta
+68,F,B,Cienfuegos,Cienfuegos,Área VII,5A,12,Lifrangitis Aguda,Resp,HGAL,6:00 PM,Alta
+69,M,B,Cienfuegos,Cienfuegos,Área I,7B,6,Anemia ,Resp,HGAL,9:10 AM,12B
+29,M,B,Cienfuegos,Cienfuegos,Área II,7B,3,NAC,Resp,HGAL,5:30 PM,Alta
+70,F,B,Cienfuegos,Cienfuegos,Área II,8B,5,SFA+ Dengue,Resp,HGAL,7:00 AM,Alta
+96,F,N,Cienfuegos,Cienfuegos,Área III,10A,4,Lifrangitis Aguda,Resp,HGAL,6:00 PM,Alta
+58,F,M,Cruces,Cienfuegos,Cruces,10B,5,HQ Apendicitis,Resp,HGAL,9:10 AM,1A
+22,M,B,Cruces,Cienfuegos,Cruces,1A,7,HQ Apendicitis,Resp,HGAL,11:10 PM,Alta
+55,M,B,Cruces,Cienfuegos,Cruces,7B,8,Anemia ,Resp,HGAL,7:45 AM,Alta
+26,M,B,Abreus,Cienfuegos,Abreus,4B,6,Anemia ,MI,HGAL,6:10 PM,Alta
+37,F,B,Cruces,Cienfuegos,Cruces,11A,9,Anemia ,MI,HGAL,6:25 AM,1A
+50,M,M,Cruces,Cienfuegos,Cruces,9B,3,Anemia ,MI,HGAL,6:25 AM,Alta
+52,F,N,Cruces,Cienfuegos,Cruces,3B,6,Anemia ,MI,HGAL,5:30 PM,Alta
+48,F,M,Cruces,Cienfuegos,Cruces,4B,4,Anemia ,MI,HGAL,7:00 AM,Alta
+51,F,N,Lajas,Cienfuegos,Lajas,3A,12,Asma Bronquial,Cirugía,HGAL,6:00 PM,Alta
+44,F,B,Lajas,Cienfuegos,Lajas,5A,3,Asma Bronquial,Cirugía,HGAL,9:10 AM,12B
+68,F,B,Lajas,Cienfuegos,Lajas,9B,1,Asma Bronquial,Cirugía,HGAL,11:10 PM,Alta
+67,F,B,Lajas,Cienfuegos,Lajas,11A,4,Asma Bronquial,Cirugía,HGAL,7:45 AM,Alta
+80,F,B,Lajas,Cienfuegos,Lajas,12B,16,Asma Bronquial,Cirugía,HGAL,7:45 AM,Alta
+57,M,B,Lajas,Cienfuegos,Lajas,12A,8,Asma Bronquial,Cirugía,HGAL,6:10 PM,1A
+61,F,B,Cumanayagua,Cienfuegos,Cumanayagua,8B,7,Asma Bronquial,Cirugía,HGAL,6:25 AM,Alta
+55,M,N,Cienfuegos,Cienfuegos,Área III,12B,6,Asma Bronquial,Cirugía,HGAL,5:30 PM,Alta
+71,F,M,Cienfuegos,Cienfuegos,Lajas,1A,9,Asma Bronquial,Cirugía,HGAL,7:00 AM,Alta
+60,M,N,Lajas,Cienfuegos,Lajas,1A,10,Asma Bronquial,Resp,HGAL,7:00 AM,Alta
+58,F,N,Lajas,Cienfuegos,Lajas,12A,11,Asma Bronquial,Resp,HGAL,6:25 AM,Alta
+53,F,B,Lajas,Cienfuegos,Lajas,5A,12,Asma Bronquial,Resp,HGAL,6:10 PM,Alta
+61,F,B,Lajas,Cienfuegos,Lajas,7B,6,Asma Bronquial,Resp,HGAL,6:25 AM,Alta
+48,M,B,Lajas,Cienfuegos,Lajas,7B,3,Asma Bronquial,MI,HGAL,5:30 PM,Alta
+66,F,M,Lajas,Cienfuegos,Lajas,8B,5,Asma Bronquial,MI,HGAL,7:00 AM,Alta
+53,M,B,Lajas,Cienfuegos,Lajas,10A,4,Asma Bronquial,MI,HGAL,6:00 PM,Alta
+61,F,B,Lajas,Cienfuegos,Lajas,10B,5,Asma Bronquial,MI,HGAL,9:10 AM,Alta
+66,M,B,Lajas,Cienfuegos,Lajas,1A,7,Asma Bronquial,MI,HGAL,9:10 AM,Alta
+61,M,B,Lajas,Cienfuegos,Lajas,7B,8,Anemia ,MI,HGAL,6:25 AM,Alta
+46,M,B,Lajas,Cienfuegos,Lajas,4B,6,NAC,Cirugía,HGAL,6:10 PM,Alta
+83,M,B,Lajas,Cienfuegos,Lajas,11A,9,SFA+ Dengue,Cirugía,HGAL,5:30 PM,Alta
+46,M,B,Lajas,Cienfuegos,Lajas,9B,3,Lifrangitis Aguda,Cirugía,HGAL,7:00 AM,Alta
+57,F,B,Lajas,Cienfuegos,Área III,3B,6,Lifrangitis Aguda,Cirugía,HGAL,6:00 PM,Alta
+78,F,N,Cienfuegos,Cienfuegos,Área III,4B,4,Lifrangitis Aguda,Cirugía,HGAL,9:10 AM,Alta
+60,M,M,Cienfuegos,Cienfuegos,Área III,3A,12,Lifrangitis Aguda,Resp,HGAL,11:10 PM,Alta
+46,M,N,Cienfuegos,Cienfuegos,Área III,5A,3,SFA+ Dengue,Resp,HGAL,7:45 AM,Alta
+33,M,B,Lajas,Cienfuegos,Lajas,9B,1,SFA+ Dengue,Cirugía,HGAL,7:45 AM,Alta
+83,M,B,Lajas,Cienfuegos,Lajas,11A,4,SFA+ Dengue,Cirugía,HGAL,6:10 PM,Alta
+65,F,B,Lajas,Cienfuegos,Lajas,12B,16,SFA+ Dengue,Cirugía,HGAL,6:25 AM,1A
+60,M,B,Lajas,Cienfuegos,Lajas,12A,8,SFA+ Dengue,Cirugía,HGAL,5:30 PM,Alta
+71,M,B,Lajas,Cienfuegos,Lajas,8B,7,SFA+ Dengue,Cirugía,HGAL,7:00 AM,Alta
+60,F,N,Cienfuegos,Cienfuegos,Área V,12B,6,SFA+ Dengue,MI,HGAL,6:10 PM,Alta
+55,M,B,Cienfuegos,Cienfuegos,Área VI,1A,9,SFA+ Dengue,MI,HGAL,6:25 AM,Alta
+78,M,B,Cienfuegos,Cienfuegos,Área VII,1A,10,SFA+ Dengue,MI,HGAL,6:10 PM,12B
+60,M,B,Rodas,Cienfuegos,Rodas,12A,11,HQ Apendicitis,MI,HGAL,6:25 AM,Alta
+50,M,B,Rodas,Cienfuegos,Rodas,5A,12,NAC,MI,HGAL,5:30 PM,Alta
+51,F,B,Rodas,Cienfuegos,Rodas,7B,6,SFA+ Dengue,MI,HGAL,7:00 AM,Alta
+77,M,B,Cienfuegos,Cienfuegos,Área II,7B,3,Lifrangitis Aguda,Resp,HGAL,6:00 PM,1A
+54,F,B,Cienfuegos,Cienfuegos,Área III,8B,5,Anemia ,Resp,HGAL,9:10 AM,Alta
+78,F,N,Cienfuegos,Cienfuegos,Área IV,10A,4,NAC,Resp,HGAL,5:30 PM,Alta
+69,M,B,Cienfuegos,Cienfuegos,Área V,10B,5,SFA+ Dengue,MI,HGAL,7:00 AM,Alta
+80,F,B,Cienfuegos,Cienfuegos,Área VI,1A,7,Lifrangitis Aguda,MI,HGAL,6:00 PM,1A
+72,F,B,Cienfuegos,Cienfuegos,Área VII,7B,8,HQ Apendicitis,MI,HGAL,9:10 AM,Alta
+83,F,B,Cienfuegos,Cienfuegos,Área I,4B,6,Dolor Abdominal,MI,HGAL,5:30 PM,1A
+82,F,B,Cienfuegos,Cienfuegos,Área II,11A,9,Anemia ,Cirugía,HGAL,7:00 AM,Alta
+75,M,B,Cienfuegos,Cienfuegos,Área III,9B,3,NAC,Cirugía,HGAL,6:00 PM,Alta
+63,F,B,Cienfuegos,Cienfuegos,Área IV,3B,6,SFA+ Dengue,Cirugía,HGAL,9:10 AM,Alta
+49,F,B,Cienfuegos,Cienfuegos,Área V,4B,4,Lifrangitis Aguda,Cirugía,HGAL,11:10 PM,Alta
+47,F,B,Cienfuegos,Cienfuegos,Área II,3A,12,HQ Apendicitis,Cirugía,HGAL,7:45 AM,Alta
+71,M,B,Cienfuegos,Cienfuegos,Área III,5A,3,Dolor Abdominal,Cirugía,HGAL,6:10 PM,Alta
+76,M,B,Cienfuegos,Cienfuegos,Área IV,9B,1,Anemia ,Cirugía,HGAL,6:25 AM,Alta
+64,F,B,Cienfuegos,Cienfuegos,Área V,11A,4,NAC,Cirugía,HGAL,6:25 AM,Alta
+75,F,M,Cienfuegos,Cienfuegos,Área VI,12B,16,NAC,MI,HGAL,5:30 PM,Alta
+64,F,B,Cienfuegos,Cienfuegos,Área VII,12A,8,NAC,MI,HGAL,7:00 AM,Alta
+58,F,B,Cienfuegos,Cienfuegos,Área I,8B,7,NAC,MI,HGAL,6:00 PM,Alta
+69,M,N,Cienfuegos,Cienfuegos,Área II,12B,6,NAC,Cirugía,HGAL,9:10 AM,Alta
+59,F,M,Cienfuegos,Cienfuegos,Área III,1A,9,NAC,Cirugía,HGAL,11:10 PM,Alta
+59,F,B,Cienfuegos,Cienfuegos,Área IV,1A,10,Lifrangitis Aguda,Cirugía,HGAL,7:45 AM,Alta
+49,F,B,Cienfuegos,Cienfuegos,Área V,12A,11,Anemia ,Cirugía,HGAL,7:45 AM,Alta
+64,M,B,Cienfuegos,Cienfuegos,Área VI,5A,12,NAC,Cirugía,HGAL,6:10 PM,1A
+42,M,B,Cienfuegos,Cienfuegos,Área VII,7B,6,SFA+ Dengue,Cirugía,HGAL,6:25 AM,Alta
+72,M,M,Cienfuegos,Cienfuegos,Área I,7B,3,Lifrangitis Aguda,MI,HGAL,5:30 PM,Alta
+70,F,B,Cienfuegos,Cienfuegos,Área II,8B,5,HQ Apendicitis,MI,HGAL,7:00 AM,Alta
+59,F,B,Cienfuegos,Cienfuegos,Área III,10A,4,HQ Apendicitis,Resp,HGAL,7:00 AM,Alta
+47,F,B,Cienfuegos,Cienfuegos,Área IV,10B,5,HQ Apendicitis,Resp,HGAL,6:25 AM,1A
+68,F,B,Cienfuegos,Cienfuegos,Área V,1A,7,HQ Apendicitis,Resp,HGAL,6:10 PM,Alta
+80,M,B,Cienfuegos,Cienfuegos,Área II,7B,8,HQ Apendicitis,MI,HGAL,6:25 AM,Alta
+68,M,B,Cienfuegos,Cienfuegos,Área III,4B,6,HQ Apendicitis,MI,HGAL,5:30 PM,Alta
+66,F,B,Cienfuegos,Cienfuegos,Área IV,11A,9,Asma Bronquial,MI,HGAL,7:00 AM,Alta
+53,F,N,Cienfuegos,Cienfuegos,Área V,9B,3,Asma Bronquial,MI,HGAL,6:00 PM,12B
+48,F,M,Cienfuegos,Cienfuegos,Área VI,3B,6,Asma Bronquial,MI,HGAL,9:10 AM,Alta
+83,M,B,Cienfuegos,Cienfuegos,Área VII,4B,4,Asma Bronquial,MI,HGAL,9:10 AM,Alta
+58,M,B,Cienfuegos,Cienfuegos,Área I,3A,12,Asma Bronquial,Cirugía,HGAL,6:25 AM,1A
+60,M,B,Cienfuegos,Cienfuegos,Área II,5A,3,Asma Bronquial,Cirugía,HGAL,6:10 PM,Alta
+75,F,B,Cienfuegos,Cienfuegos,Área III,9B,1,Asma Bronquial,Cirugía,HGAL,6:25 AM,Alta
+68,F,M,Cienfuegos,Cienfuegos,Área IV,11A,4,Asma Bronquial,Cirugía,HGAL,5:30 PM,Alta
+69,F,N,Cienfuegos,Cienfuegos,Área V,12B,16,Asma Bronquial,Cirugía,HGAL,5:30 PM,Alta
+29,F,M,Cienfuegos,Cienfuegos,Área VI,12A,8,HQ Apendicitis,Cirugía,HGAL,7:00 AM,Alta
+70,M,N,Cienfuegos,Cienfuegos,Área VII,8B,7,NAC,Cirugía,HGAL,8:00 PM,Alta
+96,M,B,Cienfuegos,Cienfuegos,Área I,12B,6,SFA+ Dengue,Cirugía,HGAL,6:10 PM,Alta
+64,M,B,Cienfuegos,Cienfuegos,Área II,1A,9,Lifrangitis Aguda,Cirugía,HGAL,6:25 AM,Alta
+42,F,B,Cienfuegos,Cienfuegos,Área III,1A,10,Anemia ,Cirugía,HGAL,6:10 PM,12B
+72,F,B,Cienfuegos,Cienfuegos,Área IV,12A,11,NAC,MI,HGAL,6:25 AM,Alta
+70,F,B,Cienfuegos,Cienfuegos,Área V,5A,12,SFA+ Dengue,MI,HGAL,5:30 PM,Alta
+59,F,B,Cienfuegos,Cienfuegos,Área II,7B,6,Lifrangitis Aguda,MI,HGAL,7:00 AM,Alta
+47,F,N,Cienfuegos,Cienfuegos,Área III,7B,3,HQ Apendicitis,MI,HGAL,6:00 PM,1A
+68,M,M,Cienfuegos,Cienfuegos,Área IV,8B,5,Asma Bronquial,MI,HGAL,9:10 AM,Alta
+80,F,N,Cienfuegos,Cienfuegos,Área V,10A,4,Asma Bronquial,Cirugía,HGAL,11:10 PM,Alta
+68,M,N,Cienfuegos,Cienfuegos,Área VI,10B,5,Asma Bronquial,Cirugía,HGAL,7:45 AM,Alta
+66,F,B,Cienfuegos,Cienfuegos,Área VII,12B,7,Asma Bronquial,Cirugía,HGAL,7:45 AM,Alta
+53,F,B,Cienfuegos,Cienfuegos,Área I,1A,8,HQ Apendicitis,Resp,HGAL,6:10 PM,12B
+48,M,B,Cienfuegos,Cienfuegos,Área II,1A,6,NAC,Resp,HGAL,6:25 AM,Alta
+83,M,M,Cienfuegos,Cienfuegos,Área III,12A,9,SFA+ Dengue,MI,HGAL,5:30 PM,Alta
+58,F,B,Cienfuegos,Cienfuegos,Área IV,5A,3,Lifrangitis Aguda,MI,HGAL,7:00 AM,Alta
+60,M,B,Cumanayagua,Cienfuegos,Cumanayagua,7B,6,Anemia ,MI,HGAL,6:10 PM,Alta
+75,F,B,Cumanayagua,Cienfuegos,Cumanayagua,7B,4,NAC,MI,HGAL,6:25 AM,Alta
+68,F,B,Cumanayagua,Cienfuegos,Cumanayagua,8B,12,SFA+ Dengue,MI,HGAL,6:10 PM,12B
+69,F,B,Palmira,Cienfuegos,Palmira,10A,3,Lifrangitis Aguda,MI,HGAL,6:10 PM,Alta
+29,M,B,Cruces,Cienfuegos,Cruces,10B,1,HQ Apendicitis,Cirugía,HGAL,6:25 AM,Alta
